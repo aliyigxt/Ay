@@ -1,0 +1,656 @@
+Terms of Use / End User License Agreement for Ay
+
+Last updated: July 6, 2026
+
+These Terms of Use / End User License Agreement (“Terms”) govern your use of Ay (“the App”). By downloading, accessing, enabling, subscribing to, or using the App, you agree to these Terms.
+
+If you do not agree to these Terms, do not use the App.
+
+1. Developer
+
+The App is provided by:
+
+Ali Yiğit
+Email: [aliyigxt@icloud.com](mailto:aliyigxt@icloud.com)
+
+2. Relationship with Apple Terms
+
+The App is distributed through the Apple App Store and is licensed to you, not sold.
+
+These Terms apply in addition to Apple’s applicable App Store terms, Apple Media Services Terms and Conditions, Apple Standard End User License Agreement, Apple privacy disclosures, Apple Intelligence disclosures, StoreKit rules, and other Apple terms that may apply to your use of Apple devices, Apple services, App Store purchases, subscriptions, iCloud, Siri, Apple Intelligence, Calendar, Reminders, Maps, Photos, Speech, Dictation, Spotlight, Shortcuts, and related Apple-managed systems.
+
+If these Terms conflict with mandatory Apple terms or mandatory consumer protection laws, those mandatory terms or laws will apply to the extent required.
+
+Apple is not responsible for providing maintenance or support for the App, except where required by Apple’s own terms or applicable law. Apple and its subsidiaries may be third-party beneficiaries of these Terms where applicable under Apple’s rules.
+
+3. License
+
+Subject to these Terms, you are granted a limited, personal, non-transferable, non-exclusive, revocable license to use the App on Apple-branded devices that you own or control, in accordance with Apple’s App Store rules and applicable Apple terms.
+
+You may not:
+
+* Copy, resell, rent, lease, sublicense, distribute, or commercially exploit the App
+* Reverse engineer, decompile, disassemble, modify, or attempt to extract the App’s source code
+* Circumvent subscription, entitlement, security, permission, or technical restrictions
+* Use the App for unlawful, harmful, abusive, fraudulent, defamatory, infringing, or rights-violating purposes
+* Use the App to harass, impersonate, threaten, exploit, deceive, or harm another person
+* Use the App to store, create, organize, or distribute illegal content
+* Interfere with Apple services, App Store systems, StoreKit, iOS, device security, or App functionality
+* Use automation, scraping, extraction, or technical abuse against App features
+* Misrepresent AI-generated content as verified professional advice
+* Use the App in a way that violates applicable law, Apple policies, or these Terms
+
+4. Local app profile, not a server account
+
+Ay does not provide a developer-operated server-based account system.
+
+Any “account”, “profile”, “delete account”, or similar wording inside the App refers to your local app profile and related local App data, unless a future version clearly states otherwise.
+
+The developer does not operate a separate user account server and does not control your Apple ID, iCloud account, App Store account, subscription settings, device settings, iOS settings, Apple Intelligence settings, Siri settings, Calendar accounts, Reminder accounts, Photos settings, Maps behavior, or Apple-managed services.
+
+Deleting the App, deleting local App data, or resetting your local profile may not delete data that has already been saved, synced, backed up, exported, shared, indexed, or processed through Apple systems or destinations selected by you.
+
+5. App functionality
+
+Ay may include personal workspace, Ay chat, Profile chats, content organization, attachments, notes, checklists, quotes, links, locations, drawings, events, reminders, subtasks, local notifications, camera capture, document scanning, PDF features, voice messages, speech-to-text, Contents hub, search, Apple Calendar and Reminders sync, Apple Maps features, Apple Intelligence-supported features, Spotlight/Siri/Shortcuts/App Intents integration, premium tools, and StoreKit subscription features.
+
+The App is provided as a personal organization and productivity tool. It is not a medical, legal, financial, accounting, tax, psychological, safety, emergency, academic, business-critical, or professional advisory service.
+
+You are responsible for how you use the App, what content you add, what outputs you rely on, what actions you approve, and what decisions you make based on the App.
+
+6. User content
+
+You are responsible for all content you create, import, capture, scan, record, save, edit, organize, delete, export, share, or process through the App.
+
+User content may include, but is not limited to:
+
+* Messages
+* Ay chat content
+* Profile chat content
+* Photos
+* Files
+* PDFs
+* Scanned documents
+* Voice recordings
+* Speech-to-text content
+* Notes
+* Checklists
+* Quotes
+* Links
+* Location pins
+* Drawings
+* Events
+* Reminders
+* Subtasks
+* Attachments
+* AI prompts
+* AI outputs
+* Imported or exported content
+
+You must have the necessary rights and permissions for any content you add to or use with the App.
+
+You agree not to use the App to create, store, organize, process, export, or share content that is unlawful, harmful, abusive, defamatory, misleading, infringing, sexually exploitative, harassing, discriminatory, fraudulent, or otherwise violates the rights of others.
+
+The developer is not responsible for user-created content, user-imported content, user-selected files, user-selected photos, user-recorded audio, user-scanned documents, user-entered text, user-approved actions, user-shared content, or consequences resulting from your use of that content.
+
+7. No sole storage
+
+The App should not be used as the sole storage location for important, sensitive, legal, financial, medical, academic, business-critical, emergency, or mission-critical information.
+
+You are responsible for keeping separate backups of important data outside the App.
+
+The App does not guarantee that content will never be lost, corrupted, overwritten, duplicated, deleted, delayed, unavailable, misclassified, or inaccessible.
+
+8. Sensitive and regulated information
+
+The App is not designed for highly sensitive, regulated, emergency, legal, medical, financial, safety-critical, or mission-critical use.
+
+You are responsible for deciding what information you store, process, scan, record, summarize, or ask Apple Intelligence-supported features to analyze.
+
+Do not rely on the App as the only place to store passwords, identity documents, legal evidence, tax records, medical information, emergency instructions, school-critical work, business-critical records, or other high-risk material.
+
+9. Apple Intelligence and AI-supported features
+
+Ay may provide AI-supported features through Apple Intelligence, Apple Foundation Models, Apple system language models, and related Apple-managed system frameworks when available.
+
+By using AI-supported features in Ay, you acknowledge and agree that you are using Apple-managed intelligence infrastructure made available through your device, operating system, Apple settings, supported language, supported region, device capability, and Apple’s availability rules.
+
+Ay does not operate its own developer-controlled AI model, AI server, AI backend, or AI training infrastructure.
+
+Apple Intelligence, Apple Foundation Models, on-device models, Private Cloud Compute where applicable, Siri, Dictation, Speech, system model availability, model updates, safety behavior, privacy behavior, data handling, regional availability, language support, device eligibility, and AI system behavior are managed by Apple, not by the developer.
+
+By enabling or using AI-supported features in Ay, you acknowledge and agree that Apple-managed processing, Apple Intelligence behavior, Apple Foundation Models behavior, Private Cloud Compute where applicable, Apple privacy practices, Apple data handling, Apple system permissions, Apple diagnostics, Apple service availability, and Apple terms are governed by Apple’s own policies, disclosures, settings, and legal terms.
+
+The developer does not control Apple Intelligence, Apple Foundation Models, Private Cloud Compute, Siri, Dictation, Speech, Apple’s AI models, Apple’s model updates, Apple’s data practices, Apple’s privacy policies, Apple’s safety systems, Apple’s server infrastructure, Apple’s output quality, Apple’s service interruptions, or Apple’s eligibility decisions.
+
+10. AI context and user authorization
+
+When you use AI-supported features, the App may prepare or provide relevant local context to Apple-managed AI features, depending on the feature you use and the settings you enable.
+
+This context may include:
+
+* Your current prompt or request
+* Recent Ay chat messages
+* Selected Profile chat messages
+* Linked Profile chat context
+* Summaries of Profile chats
+* Selected attachments
+* Locally extracted text from supported files, images, or PDFs
+* Event, reminder, todo, subtask, or calendar context
+* Display name or local profile metadata
+* Search results or content references needed to answer your request
+* Action suggestions prepared for your review
+
+If you enable broader AI access, such as allowing Ay to access all Profile chats for context, you authorize the App to use a wider local context set for AI-supported features.
+
+You are responsible for reviewing which settings you enable and what content you provide to AI-supported features.
+
+11. AI outputs and complete user responsibility
+
+AI outputs may include text, summaries, classifications, suggestions, plans, actions, event drafts, reminder drafts, checklist items, note suggestions, profile summaries, file summaries, content organization suggestions, or other generated results.
+
+AI outputs are generated by Apple-managed AI systems and may be inaccurate, incomplete, outdated, misleading, offensive, unsuitable, biased, duplicated, irrelevant, unsafe, or inappropriate for your intended use.
+
+You are solely responsible for:
+
+* Your AI prompts
+* The content you provide to AI features
+* Reviewing AI outputs
+* Verifying AI outputs before relying on them
+* Deciding whether to use, save, edit, send, publish, share, or apply AI outputs
+* Any action you approve based on AI output
+* Any event, reminder, note, checklist, message, summary, or structured item created from AI output
+* Any personal, legal, financial, academic, business, medical, safety, reputational, emotional, or practical consequence caused by using AI output
+
+To the maximum extent permitted by applicable law, the developer is not responsible for any AI output, any AI-generated suggestion, any AI-generated action, any AI-generated summary, any incorrect or missing information in an AI response, or any consequence resulting from your use, reliance on, sharing of, publication of, editing of, or application of AI output.
+
+12. AI is not professional advice
+
+AI-supported features in Ay are for general personal organization and productivity assistance only.
+
+AI outputs are not professional advice and must not be treated as:
+
+* Legal advice
+* Medical advice
+* Financial advice
+* Tax advice
+* Accounting advice
+* Psychological advice
+* Safety advice
+* Emergency guidance
+* Academic guarantee
+* Business consulting
+* Professional verification
+* Factual certification
+* Compliance approval
+* Human review
+
+You must consult a qualified professional before relying on any AI output for legal, medical, financial, tax, psychological, safety, academic, business-critical, or regulated matters.
+
+The App must not be used as an emergency service, crisis service, medical triage system, legal decision system, investment advisor, compliance system, or safety-critical tool.
+
+13. AI action review and accepted actions
+
+Ay may suggest actions such as creating events, creating reminders, creating notes, creating checklists, organizing Profile chat content, summarizing chats, or preparing structured items.
+
+Suggested actions are not guaranteed to be correct, complete, safe, or suitable.
+
+You are responsible for reviewing all suggested actions before accepting, applying, saving, syncing, exporting, or sharing them.
+
+If you approve, apply, or use an AI-generated action, you accept full responsibility for the resulting content and consequences.
+
+The developer is not responsible for missed events, incorrect reminders, wrong dates, wrong times, wrong titles, wrong locations, wrong names, wrong summaries, incorrect extracted text, duplicated items, deleted items, calendar conflicts, reminder conflicts, or any consequence caused by AI-generated or AI-assisted actions.
+
+14. AI availability and limitations
+
+AI-supported features may be unavailable, limited, delayed, changed, degraded, suspended, or removed due to:
+
+* Device compatibility
+* iOS version
+* Apple Intelligence availability
+* Language support
+* Regional availability
+* Apple account settings
+* Apple server availability
+* Apple model downloads
+* Apple system restrictions
+* Apple policy changes
+* Apple privacy settings
+* Network availability
+* Storage limits
+* Low power mode
+* Device performance
+* App Store rules
+* Future Apple changes
+
+The developer does not guarantee that AI-supported features will be available on every device, in every country, in every language, at every time, or for every user.
+
+The developer is not responsible for AI feature unavailability, Apple Intelligence restrictions, Apple model changes, Apple service failures, or any limitation imposed by Apple or your device.
+
+15. Local notifications
+
+Ay may use local notifications for reminders, events, message-related reminders, Profile chat reminders, or similar app features.
+
+Local notifications depend on iOS, notification permissions, Focus modes, device settings, time settings, battery settings, Apple system behavior, and user actions.
+
+The developer cannot be held responsible for missed, delayed, duplicated, hidden, silenced, incorrect, or failed notifications caused by iOS, device settings, permissions, Apple system behavior, Focus modes, battery settings, time changes, user actions, device state, or other factors outside the developer’s control.
+
+16. Calendar and Reminders sync
+
+Ay may offer Apple Calendar and Apple Reminders sync features through Apple EventKit when you enable them.
+
+If enabled, the App may read, create, update, merge, import, delete, or synchronize related events and reminders depending on the feature used and permissions granted.
+
+Calendar and Reminders behavior may depend on:
+
+* iOS permissions
+* Apple Calendar
+* Apple Reminders
+* iCloud
+* Apple ID
+* Device settings
+* Calendar account settings
+* Reminder account settings
+* Third-party calendar or reminder accounts configured on your device
+* Network availability
+* Sync timing
+* Apple system behavior
+* User actions
+
+The developer cannot be held responsible for missed reminders, duplicated events, duplicated reminders, wrong sync state, sync conflicts, deleted calendar items, deleted reminder items, delayed sync, failed sync, unavailable calendars, unavailable reminders, account issues, permission issues, or consequences caused by Apple Calendar, Apple Reminders, iCloud, third-party calendar/reminder accounts, device settings, user actions, or Apple system behavior.
+
+You are responsible for reviewing synced events and reminders.
+
+17. Camera, photos, files, microphone, speech, and document scanning
+
+The App may request access to camera, selected photos, add-only photo library access, files, microphone, speech recognition, or document scanning only when you use related features.
+
+You are responsible for the photos, files, scans, documents, audio recordings, and speech content you select, capture, import, record, save, edit, export, or delete.
+
+The developer cannot be held responsible for:
+
+* Image quality
+* Failed captures
+* Failed scans
+* Incorrect document detection
+* Cropped scans
+* Blurry scans
+* Incomplete PDFs
+* Incorrect OCR
+* Missing OCR
+* Failed speech recognition
+* Incorrect transcription
+* Lost recordings
+* User-selected files
+* Accidental imports
+* Accidental deletion
+* Failed saves
+* File corruption
+* Unsupported file types
+* Large file performance issues
+* Device hardware issues
+* Permission issues
+* Apple Photos behavior
+* Apple Files behavior
+* Apple Speech behavior
+* Apple VisionKit behavior
+* Apple PDFKit behavior
+* iOS behavior
+* User actions
+
+18. PDF, OCR, file preview, and extracted text
+
+Ay may allow you to scan documents, create PDFs, preview PDFs, search PDFs, highlight content, or extract readable text from supported files using Apple system frameworks and local App logic.
+
+OCR, document detection, file preview, text extraction, search, and PDF processing may be inaccurate, incomplete, delayed, unavailable, or unsupported depending on file quality, file size, format, language, device capability, Apple framework behavior, storage, and permissions.
+
+You are responsible for verifying extracted text, scanned content, recognized content, and file results before relying on them.
+
+The developer cannot be held responsible for errors, omissions, formatting issues, lost pages, incorrect extracted text, incorrect document recognition, failed search, failed preview, or consequences caused by relying on scanned, extracted, or recognized content.
+
+19. Contacts
+
+Ay may allow you to create Profile chats using Apple’s contact picker or selected contact information.
+
+The App only receives contact information that you select through the system interface, depending on Apple’s controls and permissions.
+
+You are responsible for selecting the correct contact and for any content you associate with a Profile chat.
+
+The developer cannot be held responsible for incorrect contact selection, outdated contact information, duplicate contacts, contact permission issues, Apple Contacts behavior, or consequences caused by associating App content with the wrong person or profile.
+
+20. Maps and location pins
+
+Ay may allow you to save location pins, use map search, view map previews, create Apple Maps links, or use location-related organization features through Apple MapKit and Apple Maps.
+
+Map search, geocoding, reverse geocoding, location names, addresses, map previews, routes, and Apple Maps behavior are controlled by Apple and may be inaccurate, incomplete, unavailable, delayed, or changed.
+
+You are responsible for verifying locations, addresses, routes, travel plans, meeting points, and map results before relying on them.
+
+The developer cannot be held responsible for incorrect location data, wrong addresses, failed map search, inaccurate map results, Apple Maps behavior, travel delays, missed meetings, route issues, or consequences caused by relying on map or location information.
+
+21. Spotlight, Siri, Shortcuts, and App Intents
+
+Ay may use Apple system features such as Core Spotlight, Siri, Shortcuts, and App Intents to help you search, open, or interact with App content.
+
+These features depend on Apple system indexing, user settings, device state, iOS behavior, privacy settings, language support, and Apple availability.
+
+The developer cannot be held responsible for failed indexing, incorrect search results, unavailable Siri or Shortcuts actions, wrong App Intent behavior, system search visibility, Apple system changes, or user actions through Apple system interfaces.
+
+22. Premium tools and subscriptions
+
+Ay may offer paid features, premium tools, or subscription-based access through Apple StoreKit and the App Store.
+
+Payment processing, billing, subscription renewal, cancellation, taxes, pricing, regional pricing, currency conversion, refunds, chargebacks, payment authorization, payment failure, offer eligibility, trial eligibility, Family Sharing behavior, App Store account status, and financial transaction handling are managed by Apple App Store and StoreKit.
+
+The developer does not process payment card details, does not store payment card details, does not control Apple billing systems, does not control Apple refund decisions, does not control App Store tax handling, does not control Apple subscription renewal or cancellation systems, and does not control Apple account restrictions or payment authorization failures.
+
+To the maximum extent permitted by applicable law, the developer is not responsible for Apple-managed payment, billing, renewal, cancellation, refund, tax, pricing, eligibility, currency conversion, App Store account, StoreKit, Family Sharing, or financial transaction processes.
+
+You are responsible for managing your Apple ID, App Store account, Family Sharing settings, region settings, payment method, subscription status, refund requests, billing information, and device settings.
+
+Deleting the App does not necessarily cancel your subscription. Subscriptions must be managed through Apple’s subscription management tools.
+
+23. Premium access and entitlement
+
+Premium access depends on Apple StoreKit, App Store purchase status, subscription status, Apple ID state, regional availability, payment status, transaction availability, device state, network conditions, and Apple system behavior.
+
+The App may store a local entitlement state to unlock premium features. This local state may become unavailable, outdated, delayed, or incorrect due to Apple service delays, device issues, network conditions, StoreKit behavior, or user account changes.
+
+The developer cannot be held responsible for delayed premium access, failed entitlement refresh, subscription state mismatch, App Store account issues, StoreKit outages, regional restrictions, Apple ID issues, payment failures, or Apple-controlled subscription behavior.
+
+24. Premium feature changes
+
+Premium features may be modified, added, removed, renamed, limited, replaced, suspended, or discontinued over time for technical, legal, performance, security, product, business, or App Store compliance reasons.
+
+A subscription provides access to the premium features available at the relevant time. It does not guarantee that every feature, design, workflow, limit, or capability will remain unchanged permanently.
+
+The developer cannot be held responsible for loss, inconvenience, subscription dissatisfaction, workflow changes, unavailable premium features, modified premium features, removed premium features, or changes to premium limits caused by app updates, legal requirements, business decisions, App Store compliance, technical limitations, Apple platform behavior, or discontinued development.
+
+25. Apple ID and App Store responsibility
+
+You are responsible for managing your Apple ID, App Store account, Family Sharing settings, region settings, payment method, subscription status, refund requests, billing information, device settings, and Apple service settings.
+
+The developer cannot be held responsible for problems caused by Apple ID issues, App Store account issues, payment method issues, region changes, Family Sharing behavior, subscription management errors, Apple-controlled account restrictions, Apple-controlled App Store behavior, or Apple service settings.
+
+26. iCloud, device backup, storage, and data loss
+
+Ay is primarily local-first and does not operate a developer-controlled server account system.
+
+Depending on your device settings and Apple services, App-related data or related content may be affected by iCloud device backup, iCloud Photos, iCloud Calendar, iCloud Reminders, Apple ID settings, device backups, Apple storage behavior, or other Apple-managed systems.
+
+The developer does not control Apple iCloud, iCloud backup, Apple ID, Apple servers, Apple account status, iCloud storage limits, iCloud sync timing, network availability, device storage, device settings, iOS behavior, Apple service availability, Calendar account sync, Reminder account sync, Photos sync, or third-party accounts configured on your device.
+
+Data loss, backup failure, restore failure, synchronization delay, iCloud delay, unavailable data, incomplete backup, incomplete restore, device failure, operating system behavior, permission settings, user action, accidental deletion, App deletion, App reset, offline usage, storage limits, Apple ID issues, Apple service interruptions, or third-party account issues may cause data to be unavailable, delayed, incomplete, overwritten, corrupted, duplicated, or lost.
+
+To the maximum extent permitted by applicable law, the developer is not responsible for data loss, backup failure, restore failure, synchronization delay, unavailable data, incomplete deletion, delayed deletion, corrupted data, overwritten data, duplicated data, missing data, unavailable data, or related damage caused by Apple services, device behavior, user actions, network conditions, permissions, operating system behavior, App deletion, App reset, offline use, storage limits, third-party accounts, or factors outside the developer’s control.
+
+You are responsible for maintaining your own important backups and for managing your Apple ID, iCloud settings, device backups, storage, Apple service settings, and device settings.
+
+27. Device storage
+
+Insufficient device storage, iCloud storage, Photos storage, file storage, or account storage may prevent saving, export, import, backup, restore, deletion, scanning, recording, attachment handling, media processing, AI context preparation, or synchronization.
+
+You are responsible for maintaining sufficient device storage, iCloud storage, Apple ID availability, and appropriate device settings.
+
+The developer cannot be held responsible for unavailable, delayed, incomplete, corrupted, overwritten, duplicated, or lost data caused by insufficient storage, device restrictions, Apple ID issues, iCloud limits, Photos limits, file limits, account limits, or device settings.
+
+28. Delete/reset flow
+
+Ay may include a delete/reset flow for local App profile data and related local App data.
+
+This process may delete or reset local App data where technically available, such as profile data, chats, Profile chats, messages, attachments, thumbnails, events, reminders stored locally, local notification requests, local library data, temporary files, drafts, local entitlement cache, app settings, and indexed items.
+
+Because the App does not use a custom developer backend account system, “Delete Account” or reset refers to deleting the local App profile and related local App data.
+
+This process may not delete data that has already been:
+
+* Saved to Apple Photos
+* Synced to Apple Calendar
+* Synced to Apple Reminders
+* Stored in iCloud or device backups
+* Stored in third-party calendar or reminder accounts
+* Exported to Files
+* Shared with another app
+* Shared with another person
+* Copied to clipboard
+* Captured in screenshots or screen recordings
+* Indexed or retained by Apple systems
+* Retained by Apple for App Store, StoreKit, diagnostics, legal, tax, billing, refund, or account reasons
+
+You may need to manage some data separately through Apple Settings, Apple ID/iCloud settings, Photos, Calendar, Reminders, Files, third-party apps, or other services you use.
+
+29. User screenshots, recordings, exports, and sharing
+
+You are responsible for any screenshots, screen recordings, manual copying, exporting, saving, printing, disclosure, forwarding, sharing, or external use of content you create, store, view, scan, record, or generate in the App.
+
+The developer cannot be held responsible for user-initiated sharing, screenshots, recordings, copying, disclosure, accidental sharing, unauthorized access caused by user actions, external app behavior, recipient behavior, or use of App content after it leaves the App.
+
+30. No guarantee of uninterrupted or error-free operation
+
+The App is provided on an “as is” and “as available” basis.
+
+The developer does not guarantee that the App will be uninterrupted, error-free, bug-free, secure, compatible with every device, compatible with every iOS version, compatible with every Apple service, or free from data loss.
+
+Features may fail, be delayed, behave differently, or become unavailable due to:
+
+* iOS changes
+* Apple Intelligence changes
+* Apple policy changes
+* App Store behavior
+* StoreKit behavior
+* Apple service issues
+* iCloud behavior
+* Calendar or Reminders behavior
+* Photos behavior
+* Maps behavior
+* Siri, Shortcuts, or Spotlight behavior
+* Device settings
+* Permissions
+* Network availability
+* Storage limits
+* Battery settings
+* User actions
+* Regional restrictions
+* Language restrictions
+* Hardware limitations
+* Operating system bugs
+* App updates
+* Data migrations
+* Force majeure events
+
+31. App updates, migrations, and compatibility
+
+App updates, database migrations, iOS updates, Apple Intelligence changes, Apple policy changes, device limitations, interrupted updates, insufficient storage, unsupported devices, or App Store requirements may affect App behavior, data availability, feature availability, AI availability, premium access, or compatibility.
+
+The developer cannot be held responsible for issues caused by update failures, interrupted updates, migration failures, unsupported devices, insufficient storage, operating system changes, Apple policy changes, Apple Intelligence changes, App Store requirements, or compatibility limitations.
+
+You are responsible for keeping your device, iOS version, Apple ID, storage, iCloud settings, App Store account, and Apple service settings in a usable state.
+
+32. App removal, suspension, and discontinued development
+
+The App, any feature, premium feature, subscription offering, Apple integration, AI-supported feature, or development of the App may be modified, suspended, discontinued, removed from sale, or removed from the App Store at any time, with or without prior notice and with or without stating a reason.
+
+The developer may stop maintaining, updating, supporting, or developing the App at any time.
+
+To the maximum extent permitted by applicable law, the developer is not responsible for loss, inconvenience, incompatibility, unavailable features, subscription limitations, data issues, business losses, productivity losses, AI feature loss, or other consequences caused by the App being removed from sale, removed from the App Store, suspended, discontinued, unsupported, or no longer developed.
+
+If subscriptions are affected by App Store availability, billing, cancellation, refund, or renewal status, those processes are managed by Apple App Store and StoreKit.
+
+33. Changes to the App
+
+The developer may update, modify, improve, limit, suspend, remove, replace, rename, discontinue, or stop supporting any part of the App, including free features, premium features, designs, limits, workflows, AI-supported features, Apple integrations, subscription offerings, and App content.
+
+Features may change or become unavailable due to technical, legal, App Store, Apple policy, performance, privacy, security, business, product, or compliance reasons.
+
+The developer cannot be held responsible for loss, inconvenience, incompatibility, data issues, unavailable features, subscription limitations, business losses, productivity losses, or other consequences caused by App updates, feature changes, development being stopped, support being stopped, App Store removal, Apple policy changes, iOS updates, Apple Intelligence changes, or discontinued functionality.
+
+34. User responsibility
+
+You are responsible for:
+
+* Using the App lawfully
+* Managing your device and Apple ID
+* Managing permissions carefully
+* Managing iCloud, Photos, Calendar, Reminders, Siri, Spotlight, Shortcuts, and Apple Intelligence settings
+* Managing App Store subscriptions
+* Keeping your device updated
+* Maintaining enough storage
+* Keeping separate backups of important data
+* Reviewing App outputs before relying on them
+* Reviewing AI outputs before relying on them
+* Reviewing AI-generated actions before applying them
+* Verifying calendar, reminder, map, OCR, speech, and file results
+* Choosing appropriate content and profile information
+* Avoiding storage of highly sensitive or mission-critical information as the only copy
+* Understanding that deleting the App may affect local data
+* Understanding that Apple-controlled systems may affect payments, subscriptions, AI features, iCloud, Calendar, Reminders, Maps, Photos, App Store behavior, and device behavior
+
+35. Apple services and external services
+
+The App may rely on Apple frameworks and services, including iOS, Apple Intelligence, Foundation Models, Private Cloud Compute where applicable, Siri, Dictation, Speech, StoreKit, App Store, local notifications, Photos, Camera, Files, Calendar, Reminders, Maps, PDFKit, VisionKit, AVFoundation, Core Spotlight, Shortcuts, App Intents, iCloud backups, and device storage.
+
+Apple services are governed by Apple’s own terms, policies, infrastructure, account rules, availability, privacy practices, and user settings.
+
+The developer cannot be held responsible for Apple service interruptions, Apple policy changes, Apple account issues, App Store issues, Apple Intelligence issues, StoreKit issues, payment issues, refund decisions, tax handling, Calendar/Reminders issues, Photos issues, Maps issues, Speech issues, Siri/Shortcuts/Spotlight issues, iCloud issues, or any Apple-controlled process.
+
+If you export, share, open, copy, save, or send content to another app, person, platform, or service, that destination is outside the developer’s control. You are responsible for reviewing the destination’s terms and privacy practices.
+
+36. No third-party advertising or analytics
+
+Ay does not use third-party advertising SDKs, third-party analytics SDKs, third-party crash analytics SDKs, or cross-app tracking.
+
+Apple may provide diagnostics to developers if you have enabled sharing diagnostics with app developers in your device settings. This is controlled by Apple and your device settings.
+
+37. Intellectual property
+
+The App, including its design, code, structure, organization, features, visual elements, and original content, is protected by intellectual property laws.
+
+You do not receive ownership of the App. You receive only the limited license described in these Terms.
+
+You retain responsibility for your own content. You must not use the App to infringe copyrights, trademarks, privacy rights, publicity rights, contract rights, or other rights of third parties.
+
+If AI-supported features generate content similar to existing material or unsuitable for your use, you are responsible for reviewing, editing, rejecting, or avoiding use of that output.
+
+The developer is not responsible for copyright, trademark, publicity, privacy, contractual, or other rights issues caused by user content, imported content, scanned content, recorded content, shared content, or AI output that you choose to use.
+
+38. Export control and legal compliance
+
+You may not use or export the App in violation of applicable laws, sanctions, export controls, or Apple rules.
+
+You represent that you are not located in a country or region subject to restrictions that prohibit your use of the App and that you are not listed on any restricted party list that would make your use unlawful.
+
+39. Force majeure
+
+The developer cannot be held responsible for failures, interruptions, delays, data issues, service issues, unavailable features, AI limitations, payment issues, backup problems, or App unavailability caused by events outside the developer’s reasonable control, including natural disasters, internet outages, governmental actions, legal restrictions, platform restrictions, Apple service issues, security incidents, labor disruptions, war, civil unrest, pandemics, power outages, infrastructure failures, or other force majeure events.
+
+40. Privacy
+
+Your use of the App is also governed by the App’s Privacy Policy.
+
+The Privacy Policy explains what data the App may process, how local-first App data works, how Apple-managed services may be involved, how Apple Intelligence-supported features may use context, how StoreKit subscription/payment processes work, and how privacy rights may apply.
+
+41. Limitation of liability
+
+To the maximum extent permitted by applicable law, the developer cannot be held responsible for indirect, incidental, special, consequential, exemplary, punitive, economic, financial, business, academic, productivity, reputational, emotional, personal, or data-related damages arising from or related to your use of the App.
+
+This includes damages, losses, or consequences related to:
+
+* Data loss
+* Lost messages
+* Lost chats
+* Lost Profile chats
+* Lost attachments
+* Lost notes
+* Lost files
+* Lost scans
+* Lost PDFs
+* Lost voice recordings
+* Missed reminders
+* Missed events
+* Failed notifications
+* Failed backup
+* Failed restore
+* Sync delays
+* Calendar conflicts
+* Reminder conflicts
+* Photos issues
+* File issues
+* OCR errors
+* Speech recognition errors
+* AI outputs
+* AI-generated actions
+* Reliance on AI content
+* Wrong AI summaries
+* Wrong AI suggestions
+* Wrong dates or times
+* Wrong map results
+* Incorrect contact selection
+* Subscription issues
+* Payment issues
+* Billing issues
+* Refund decisions
+* Tax or pricing issues
+* App Store or StoreKit issues
+* Apple ID issues
+* Apple Intelligence issues
+* Device failure
+* iOS behavior
+* Permission settings
+* User mistakes
+* App deletion
+* App reset
+* Offline use
+* Insufficient storage
+* Feature unavailability
+* App updates
+* Migration failures
+* Removed premium features
+* Removed or suspended App availability
+* Discontinued development
+* Apple service interruptions
+* External app behavior
+* Force majeure events
+
+The App is a personal organization tool and should not be relied upon as the sole place to store important, sensitive, legal, financial, medical, academic, business-critical, emergency, or mission-critical information.
+
+42. Disclaimer of warranties
+
+To the maximum extent permitted by applicable law, the App is provided without warranties of any kind, whether express, implied, statutory, or otherwise.
+
+The developer does not warrant that:
+
+* The App will meet your expectations
+* The App will always be available
+* The App will always be accurate
+* The App will always be secure
+* The App will always preserve data
+* AI outputs will be correct
+* AI outputs will be suitable
+* AI features will always be available
+* Notifications will always be delivered
+* Calendar or Reminder sync will always be correct
+* OCR or speech recognition will always be accurate
+* Premium features will remain unchanged
+* Apple services will remain available
+* The App will be compatible with all future iOS versions or Apple policy changes
+
+43. Termination
+
+The developer may suspend or terminate your right to use the App if you violate these Terms, misuse the App, attempt to bypass subscription or security systems, violate applicable law, or use the App in a harmful or abusive way.
+
+You may stop using the App at any time by deleting it from your device.
+
+Deleting the App may delete local data and may not cancel active App Store subscriptions. Subscriptions must be managed through Apple.
+
+44. Changes to these Terms
+
+The developer may update these Terms from time to time.
+
+The updated Terms will show a new “Last updated” date. Continued use of the App after updated Terms become available means you accept the updated Terms.
+
+45. Contact
+
+For questions about these Terms:
+
+Ali Yiğit
+Email: [aliyigxt@icloud.com](mailto:aliyigxt@icloud.com)
