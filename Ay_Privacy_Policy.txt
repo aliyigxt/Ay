@@ -1,0 +1,539 @@
+Privacy Policy for Ay
+
+Last updated: July 6, 2026
+
+This Privacy Policy explains how Ay (“the App”, “we”, “our”, or “us”) handles information. Ay is designed as a personal workspace, conversation organizer, content library, planning tool, camera/document utility, and Apple Intelligence-supported assistant experience with a local-first approach.
+
+We do not sell your data. We do not use third-party advertising SDKs, third-party analytics SDKs, third-party crash analytics, data brokers, or cross-app tracking.
+
+Most App data is stored locally on your device. The App does not operate a custom backend server and does not provide a server-based account system. Some data may be processed by Apple-managed services only when you choose to use features that depend on iOS, Apple Intelligence, StoreKit, Calendar, Reminders, Maps, Photos, Speech, Spotlight, Siri, Shortcuts, App Store, iCloud device backup, or other Apple system services.
+
+1. Contact
+
+For privacy questions or data requests, you may contact:
+
+Ali Yiğit
+Email: [aliyigxt@icloud.com](mailto:aliyigxt@icloud.com)
+
+2. Data the App may process
+
+Ay may process the following data depending on the features you use.
+
+2.1 Local profile and app settings
+
+The App may store:
+
+* Display name
+* Optional profile image/avatar
+* App settings
+* Onboarding status
+* Terms and privacy acceptance status
+* Premium entitlement state
+* Feature access preferences
+* Apple Intelligence access settings
+* Calendar/Reminders sync settings
+* Local account/reset status
+
+This data is used to personalize the App, show your local profile, remember preferences, unlock available features, and maintain your App state.
+
+2.2 Ay conversations and assistant messages
+
+If you use Ay chat features, the App may store:
+
+* Conversation titles
+* User messages
+* Assistant messages
+* Message timestamps
+* Attachments added to conversations
+* Linked Profile chat identifiers
+* Local conversation history
+* Imported files or selected photos
+* Locally extracted attachment text where available
+
+This data is used to provide conversation, search, attachment, and Apple Intelligence-supported response features.
+
+2.3 Profile chats and structured content
+
+If you create Profile chats or save content, the App may store:
+
+* Profile chat titles
+* Chat categories
+* Messages
+* Photos
+* Files
+* Voice messages
+* Captions
+* Notes
+* Checklists
+* Quotes
+* Saved links
+* Link titles and URLs you save
+* Location pins
+* Drawings
+* Expandable cards
+* Calendar event cards
+* Message replies
+* Reactions
+* Pinned items
+* Deleted/trash state
+* Auto-delete settings
+* View-once media state
+* Content identifiers and local references
+* Message notification dates
+* Attachment names, file sizes, thumbnails, and stored file references
+
+This data is used to provide Profile chats, the Contents hub, search, media previews, organization, reminders, deletion, restoration, and local content management features.
+
+2.4 Contacts selected by you
+
+If you choose to create a Profile chat from a contact, the App may access the iOS contact picker. The App only receives the contact you select.
+
+The App may store limited selected contact data such as:
+
+* Contact identifier
+* Display name
+* Stable local matching key
+* Optional contact thumbnail/avatar
+
+The App does not scan your full address book for advertising, analytics, or tracking. Contact data is used only to create and manage the selected Profile chat.
+
+2.5 Photos, camera, files, voice, and document scanning
+
+The App may request access to camera, selected photos, add-only photo library access, microphone, speech recognition, files, or document scanning only when you use related features, such as:
+
+* Choosing a profile image
+* Adding selected photos to chats or libraries
+* Taking photos inside the App
+* Saving images to your photo library
+* Importing files
+* Recording voice messages
+* Using speech-to-text dictation
+* Scanning documents into PDF files
+* Previewing or managing attachments
+* Creating thumbnails and previews
+* Extracting readable text from images or PDFs locally where available
+
+The App accesses the selected item or system permission needed for the action you request. It does not use your camera, microphone, photo library, files, or speech recognition permission for advertising or cross-app tracking.
+
+If you save images to Photos, scan documents, export files, share files, or import content from other locations, those files may also be handled by Apple Photos, Files, iCloud Drive, share sheet destinations, or other apps/services you choose. We do not control those external destinations.
+
+2.6 PDF, OCR, and local text extraction
+
+Ay may use Apple system frameworks to preview PDFs, search PDFs, highlight content, and extract readable text from supported files, images, or scanned documents.
+
+Extracted text may be used locally to:
+
+* Display searchable content
+* Build local context
+* Help Apple Intelligence answer questions when you explicitly use Ay features that involve the relevant content
+* Support PDF workspace actions
+
+Text extraction may be incomplete, inaccurate, unavailable, or limited by file quality, language, permissions, file size, device capability, or Apple system behavior.
+
+2.7 Calendar, events, reminders, and local notifications
+
+If you use planning features, the App may store:
+
+* Event titles
+* Start and end dates
+* Reminders
+* Repeat options
+* Subtasks
+* Completion state
+* Tags
+* Details/notes
+* Attachments
+* Local event identifiers
+* Native Calendar and Reminders sync identifiers
+* Deleted event state
+* Notification dates
+
+If you enable Calendar and Reminders sync, Ay may request access to Apple Calendar and Apple Reminders through EventKit. When enabled, the App may read, create, update, import, merge, or remove related calendar events and reminders within the sync logic.
+
+Calendar and Reminders data may also be processed, stored, synced, or backed up by Apple or by the calendar/reminder accounts configured on your device, such as iCloud, Google, Exchange, or other providers. Those systems are outside the developer’s control.
+
+If you allow notifications, the App uses local notifications for event, message, or Profile chat reminders. The App does not use push notification servers and does not upload notification tokens to a developer server. Notification previews may appear on your device lock screen or notification center depending on your iOS settings.
+
+2.8 Location pins, Maps, and place search
+
+If you use location features, the App may store:
+
+* Location title
+* Optional subtitle/address
+* Latitude and longitude
+* Apple Maps link information
+
+Ay may use Apple MapKit for map display, place search, reverse geocoding, and Apple Maps links. Search queries, map data, geocoding, and Maps-related behavior may be processed by Apple according to Apple’s policies and your device settings.
+
+Ay does not use saved location pins for advertising, tracking, or selling personal data.
+
+2.9 Apple Intelligence and AI-supported features
+
+Ay uses Apple Intelligence and Apple Foundation Models through Apple system frameworks when available on your device and supported by your operating system, region, language, settings, and Apple’s availability rules.
+
+When you use Ay’s Apple Intelligence-supported features, the App may provide selected local context to the Apple-managed intelligence system, such as:
+
+* Your current request
+* Recent Ay conversation messages
+* Selected attachments or locally extracted text
+* Linked Profile chat context
+* Profile messages when explicitly linked
+* Summaries of Profile chats when the “all Profile chats” access option is enabled
+* Calendar, reminder, todo, and subtask context when available and enabled
+* Display name metadata
+* Relevant local content needed to answer your request
+
+Apple Intelligence features are Apple-managed system features. By enabling, accessing, or using Apple Intelligence-related features in Ay, you acknowledge and agree that Apple-managed processing, availability, privacy controls, data handling, model behavior, diagnostics, Private Cloud Compute where applicable, device eligibility, language support, regional availability, and related system behavior are governed by Apple’s Privacy Policy, Apple Intelligence & Privacy disclosures, applicable Apple terms, and your device settings.
+
+The developer is not Apple and does not control Apple Intelligence, Apple Foundation Models, Private Cloud Compute, Siri, system model availability, Apple’s data practices, Apple’s privacy disclosures, Apple’s server infrastructure, Apple’s model updates, Apple’s output quality, Apple’s service interruptions, or Apple’s eligibility decisions.
+
+To the maximum extent permitted by applicable law, the developer is not responsible for Apple-managed AI processing, Apple Intelligence outputs, Apple system privacy behavior, Apple data handling, Apple service availability, model errors, hallucinations, incomplete responses, unavailable models, delayed downloads, device incompatibility, regional limitations, or any consequence resulting from reliance on AI-generated content.
+
+Apple Intelligence outputs may be inaccurate, incomplete, outdated, offensive, unsuitable, or inappropriate for your intended use. You are responsible for reviewing and verifying all AI-generated content before relying on it.
+
+2.10 Action suggestions and user approval
+
+Ay may suggest actions based on local context, such as creating events, adding notes, creating checklists, organizing information, or preparing structured content.
+
+Suggested actions are not guaranteed to be correct. You are responsible for reviewing suggestions before accepting or applying them. The App should not be treated as a professional, legal, medical, financial, safety, emergency, or mission-critical decision system.
+
+2.11 Speech-to-text and microphone use
+
+If you use dictation or voice-related features, the App may request microphone and speech recognition access. Speech-to-text is handled through Apple system speech recognition features and device capabilities.
+
+Audio, speech recognition, dictation availability, language support, and related processing may be subject to Apple’s system behavior, privacy policies, device settings, and regional availability. The developer does not control Apple’s speech recognition infrastructure or results.
+
+2.12 Spotlight, Siri, Shortcuts, and App Intents
+
+Ay may use Apple system features such as Core Spotlight, Siri, Shortcuts, and App Intents to help you find or open App content.
+
+Depending on your device settings and system behavior, searchable metadata may include:
+
+* Profile chat titles
+* Message previews
+* Content titles
+* PDF names
+* Event titles
+* Location titles
+* Tags
+* Attachment names
+* Local identifiers needed to open content inside the App
+
+This information is used to support system search and app navigation. Apple system search, Siri, Shortcuts, and indexing behavior are controlled by Apple and your device settings.
+
+2.13 Premium tools and local libraries
+
+If you use Ay’s dedicated libraries or Premium tools, the App may store local items related to:
+
+* Personal library
+* Home library
+* Travel library
+* Work library
+* Gaming library
+* Movies library
+* Series library
+* Images, covers, titles, categories, notes, and related metadata you add
+
+This data is used to provide the library and organization features you choose to use.
+
+2.14 Subscription data
+
+Ay uses Apple StoreKit for subscriptions and purchases.
+
+Payment processing, billing, subscription renewal, cancellation, taxes, regional pricing, currency conversion, refunds, offer eligibility, trial eligibility, chargebacks, and payment details are handled by Apple App Store and StoreKit.
+
+We do not receive, process, or store your payment card information.
+
+The App may store a local subscription entitlement state to unlock premium features. Apple may retain purchase and transaction information according to Apple’s own legal, financial, App Store, tax, and account requirements.
+
+3. Data we do not collect or use
+
+Ay does not use:
+
+* Third-party advertising SDKs
+* Third-party analytics SDKs
+* Third-party crash analytics SDKs
+* Cross-app tracking
+* Data brokers
+* Selling of personal data
+* Push notification servers
+* A custom developer backend account system
+* A developer-operated cloud AI server
+* A developer-operated payment processor
+* A developer-operated user database
+
+The App does not provide a real server-based account. Any profile/account inside the App is a local app profile.
+
+Apple may separately process App Store, StoreKit, Apple Intelligence, Siri, Dictation, Speech, Maps, Calendar, Reminders, Photos, iCloud, device backup, diagnostics, Spotlight, Shortcuts, and purchase-related information according to Apple’s own privacy practices, terms, and user settings.
+
+4. How we use data
+
+We use App data only to:
+
+* Provide App features
+* Save local App state
+* Personalize your local profile
+* Manage Ay conversations
+* Manage Profile chats and structured content
+* Store selected attachments
+* Create thumbnails and previews
+* Search and organize content
+* Provide the Contents hub
+* Record voice messages
+* Support speech-to-text input
+* Scan documents and create PDFs
+* Display and search PDFs
+* Extract readable text locally where available
+* Create and manage events, reminders, subtasks, and notifications
+* Sync with Apple Calendar and Reminders when enabled
+* Save selected images to Photos when requested
+* Support Apple Intelligence-powered responses when available
+* Prepare user-reviewed action suggestions
+* Support Spotlight, Siri, Shortcuts, and App Intents where available
+* Verify subscription access through Apple StoreKit
+* Delete or reset local App data when requested
+
+We do not use your data for advertising or cross-app tracking.
+
+5. Legal bases for processing
+
+If you are in the European Union, European Economic Area, or the United Kingdom, we rely on the following legal bases where applicable.
+
+5.1 Contract
+
+We process data necessary to provide the App features you use, such as local profile functionality, chats, files, events, reminders, attachments, libraries, Apple Intelligence-supported actions, and subscription access.
+
+5.2 Consent
+
+We rely on your consent for permissions and optional features such as:
+
+* Camera access
+* Selected photo access
+* Add-only photo library access
+* Microphone access
+* Speech recognition
+* Contacts selection
+* Notifications
+* Calendar access
+* Reminders access
+* Location/map interactions where applicable
+* Apple Intelligence-supported context usage
+* Apple system integrations such as Siri, Shortcuts, Spotlight, or App Intents where controlled by system settings
+
+You can withdraw permissions through iOS Settings or inside the App where controls are available.
+
+5.3 Legitimate interests
+
+We may process minimal App data needed to maintain functionality, preserve local state, prevent data loss, manage local files, restore App behavior, protect feature integrity, and keep the App reliable.
+
+5.4 Legal obligations
+
+Apple may retain transaction-related data for tax, accounting, legal, financial reporting, refund, fraud prevention, and App Store compliance obligations. These processes are handled by Apple.
+
+6. Where data is stored
+
+Data may be stored:
+
+* Locally on your device
+* In the App’s local Application Support, Documents, Caches, or temporary folders
+* In UserDefaults for settings and entitlement state
+* In Apple Photos if you save images there
+* In Apple Calendar and Reminders if native sync is enabled
+* In Apple Spotlight/Siri/Shortcuts indexing systems where applicable
+* In Apple StoreKit/App Store systems for subscription and purchase handling
+* In Apple-managed iCloud device backups, iCloud Photos, iCloud Calendar, iCloud Reminders, or other Apple/account systems depending on your device settings and enabled services
+* In third-party calendar/reminder accounts configured on your device if your Apple Calendar or Reminders data syncs with those accounts
+* In apps or services you choose through export, share, open-in, or import workflows
+
+Ay does not currently operate a developer-controlled CloudKit sync database or custom backend server for user accounts.
+
+7. Data sharing
+
+We do not sell your data.
+
+Data may be processed through Apple services only when needed for App functionality or when you choose to use Apple system features, including:
+
+* Apple StoreKit/App Store for subscriptions and purchases
+* Apple Intelligence/Foundation Models for supported assistant features
+* Apple Speech/Dictation for speech-to-text
+* Apple Photos for selected photo access and saving images
+* Apple Camera and AVFoundation for camera and microphone features
+* Apple Vision/VisionKit/PDFKit for document scanning, OCR, and PDF features
+* Apple Calendar and Reminders through EventKit when sync is enabled
+* Apple Maps/MapKit for location search, geocoding, map display, and Apple Maps links
+* iOS local notifications for reminders
+* Apple Spotlight, Siri, Shortcuts, and App Intents for search and navigation
+* Apple diagnostics if enabled in device settings
+* Apple iCloud/device backup systems depending on your settings
+
+If you export, share, save, copy, open, or send content outside the App, the destination app, service, recipient, or platform may process that data under its own policies. The developer is not responsible for external services or recipients selected by you.
+
+8. Payment, billing, subscriptions, and Apple services
+
+Payment processing, subscription renewal, cancellation, taxes, regional pricing, currency conversion, offer eligibility, trial eligibility, refund decisions, chargebacks, App Store account status, and financial transaction handling are managed by Apple App Store and StoreKit.
+
+The developer does not process payment card details, does not store payment card details, does not control Apple’s billing systems, does not control Apple refund decisions, does not control App Store tax handling, does not control Apple subscription renewal or cancellation systems, and does not control Apple account restrictions or payment authorization failures.
+
+To the maximum extent permitted by applicable law, the developer is not responsible for Apple-managed payment, billing, renewal, cancellation, refund, tax, pricing, eligibility, App Store account, StoreKit, or financial transaction processes.
+
+9. Apple Intelligence, Apple services, and developer responsibility
+
+Apple Intelligence, Apple Foundation Models, Private Cloud Compute where applicable, Siri, Dictation, Speech, App Store, StoreKit, Calendar, Reminders, Maps, Photos, Spotlight, Shortcuts, iCloud, device backups, and Apple diagnostics are Apple-managed systems.
+
+By using Apple-managed features through Ay, you acknowledge that those features may be subject to Apple’s own privacy policy, data practices, disclosures, terms, system permissions, device settings, regional availability, and service limitations.
+
+To the maximum extent permitted by applicable law, the developer is not responsible for:
+
+* Apple service outages
+* Apple account issues
+* Apple ID/iCloud problems
+* Apple Intelligence availability
+* Apple model behavior
+* Apple AI output quality
+* Apple privacy or data processing practices
+* Apple Calendar/Reminders sync behavior
+* Apple Photos behavior
+* Apple Maps search/geocoding behavior
+* Apple Speech/Dictation behavior
+* Apple StoreKit/App Store behavior
+* Apple diagnostic reports
+* iCloud backup or restore behavior
+* Device, OS, permission, storage, network, or account settings controlled by Apple or the user
+
+10. Data retention
+
+Local App data remains on your device until you delete it, reset local App data, remove specific content, or uninstall the App.
+
+Some deleted content may remain temporarily in local trash, undo, cache, temporary, backup, exported, shared, or Apple-managed systems depending on the feature used and your device settings.
+
+View-once media, auto-delete content, deleted messages, and temporary files are designed to be removed according to App logic, but deletion may not be guaranteed in every circumstance, such as:
+
+* Device storage failure
+* OS interruption
+* App crash
+* File system error
+* Backup copies
+* Screenshots or screen recordings
+* Exported/shared copies
+* Photos saved to the library
+* Calendar/Reminders copies
+* iCloud/device backups
+* Third-party app copies
+* Recipient copies outside the App
+
+Apple may retain purchase, transaction, diagnostic, account, or service-related information according to Apple’s own legal, financial, privacy, and operational requirements.
+
+11. Delete account and data reset
+
+Ay includes a local delete/reset flow.
+
+This may delete or reset:
+
+* Local profile data
+* Display name
+* Profile avatar
+* App settings
+* Onboarding/legal acceptance state
+* Ay conversations
+* Ay chat attachments
+* Profile chats
+* Messages
+* Attachments
+* Thumbnails
+* Temporary draft attachments
+* Calendar events stored locally
+* Deleted event state
+* Local notification requests
+* Premium tool library data
+* Saved local images
+* Contact avatars stored by the App
+* Local subscription entitlement cache
+* Spotlight/App Intents indexed items where technically available
+* App-related UserDefaults
+* App-related Application Support, Documents, Caches, and temporary data where technically available
+
+Because the App does not use a custom backend account system, “Delete Account” or reset refers to deleting the local app profile and related local App data.
+
+This process may not delete data that has already been:
+
+* Saved to Apple Photos
+* Synced to Apple Calendar or Reminders
+* Stored in iCloud or device backups
+* Stored in third-party calendar/reminder accounts
+* Shared with another app or person
+* Exported to Files or another destination
+* Copied to clipboard
+* Captured by screenshots or screen recordings
+* Retained by Apple for App Store, StoreKit, diagnostics, legal, tax, billing, refund, or account reasons
+
+You may need to manage some data separately through Apple Settings, Apple ID/iCloud settings, Photos, Calendar, Reminders, Files, third-party apps, or other services you use.
+
+12. Apple diagnostics
+
+Ay does not use third-party crash logging or third-party diagnostics tools.
+
+Apple may provide developers with crash or diagnostic information if you have enabled sharing diagnostics with app developers in your Apple device settings. This is controlled by Apple and your device settings.
+
+13. User responsibility for storage, backups, and content
+
+The App should not be used as the sole storage location for important, sensitive, legal, financial, medical, academic, business-critical, emergency, or mission-critical information.
+
+You are responsible for keeping separate backups of important data outside the App.
+
+You are responsible for maintaining sufficient device storage, iCloud storage, Apple ID availability, device access, permissions, network availability, and appropriate device settings.
+
+Insufficient storage, unavailable permissions, damaged files, OS errors, App deletion, device reset, iCloud issues, Calendar/Reminders account issues, Photos issues, or user actions may prevent saving, backup, restore, export, deletion, synchronization, AI processing, or notification delivery.
+
+14. Accuracy and reliability
+
+The App may organize, search, extract, summarize, or generate content using local logic and Apple-managed system features.
+
+The App, OCR, document scanning, speech recognition, Apple Intelligence, Calendar/Reminders sync, Maps search, and file processing may produce inaccurate, incomplete, delayed, duplicated, unavailable, or unexpected results.
+
+You are responsible for reviewing important information and verifying results before relying on them.
+
+15. Your privacy rights
+
+Depending on your location, especially if you are in the EU/EEA/UK, you may have the right to:
+
+* Access your personal data
+* Correct inaccurate data
+* Delete your data
+* Restrict processing
+* Object to processing
+* Request data portability
+* Withdraw consent
+* Lodge a complaint with a data protection authority
+
+Because most data is stored locally on your device or through Apple-managed services, you can manage much of it directly on your device, inside the App, or through Apple Settings, Apple ID, iCloud, Photos, Calendar, Reminders, Siri, Search, and App Store settings.
+
+For privacy requests, contact:
+
+[aliyigxt@icloud.com](mailto:aliyigxt@icloud.com)
+
+16. Children’s privacy
+
+Ay is intended for a general audience and is not specifically directed to children.
+
+We do not knowingly collect personal data from children through a developer-operated server. If you believe a child has provided personal data through the App, contact us so we can help remove it where technically possible.
+
+17. Security
+
+Ay uses Apple system frameworks and local device storage mechanisms where possible.
+
+No electronic storage, local device storage, backup, synchronization, AI system, notification system, or transmission method is completely secure. The App is designed to minimize unnecessary data collection, avoid third-party advertising/analytics SDKs, and avoid developer-operated backend storage.
+
+You are responsible for protecting your device, Apple ID, passcode, biometric access, backups, shared devices, exported files, and content you choose to share outside the App.
+
+18. Changes to this Privacy Policy
+
+We may update this Privacy Policy when the App changes, Apple system behavior changes, new features are added, or legal requirements change.
+
+The updated policy will show a new “Last updated” date.
+
+19. Contact
+
+For privacy questions or data requests:
+
+Ali Yiğit
+Email: [aliyigxt@icloud.com](mailto:aliyigxt@icloud.com)
