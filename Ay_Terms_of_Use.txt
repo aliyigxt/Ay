@@ -1,6 +1,6 @@
 Terms of Use / End User License Agreement for Ay
 
-Last updated: July 6, 2026
+Last updated: August 15, 2026
 
 These Terms of Use / End User License Agreement (“Terms”) govern your use of Ay (“the App”). By downloading, accessing, enabling, subscribing to, or using the App, you agree to these Terms.
 
@@ -17,7 +17,7 @@ Email: [aliyigxt@icloud.com](mailto:aliyigxt@icloud.com)
 
 The App is distributed through the Apple App Store and is licensed to you, not sold.
 
-These Terms apply in addition to Apple’s applicable App Store terms, Apple Media Services Terms and Conditions, Apple Standard End User License Agreement, Apple privacy disclosures, Apple Intelligence disclosures, StoreKit rules, and other Apple terms that may apply to your use of Apple devices, Apple services, App Store purchases, subscriptions, iCloud, Siri, Apple Intelligence, Calendar, Reminders, Maps, Photos, Speech, Dictation, Spotlight, Shortcuts, and related Apple-managed systems.
+These Terms apply in addition to Apple’s applicable App Store terms, Apple Media Services Terms and Conditions, Apple Standard End User License Agreement, Apple privacy disclosures, Apple Intelligence disclosures, StoreKit rules, and other Apple terms that may apply to your use of Apple devices, Apple services, App Store purchases, subscriptions, iCloud, Apple Health and HealthKit, Apple Watch, widgets, Live Activities, Siri, Apple Intelligence, Calendar, Reminders, Maps, Photos, Speech, Dictation, Translation, Spotlight, Shortcuts, App Intents, media playback, location services, and related Apple-managed systems.
 
 If these Terms conflict with mandatory Apple terms or mandatory consumer protection laws, those mandatory terms or laws will apply to the extent required.
 
@@ -52,7 +52,7 @@ Deleting the App, deleting local App data, or resetting your local profile may n
 
 5. App functionality
 
-Ay may include personal workspace, Ay chat, Profile chats, content organization, attachments, notes, checklists, quotes, links, locations, drawings, events, reminders, subtasks, local notifications, camera capture, document scanning, PDF features, voice messages, speech-to-text, Contents hub, search, Apple Calendar and Reminders sync, Apple Maps features, Apple Intelligence-supported features, Spotlight/Siri/Shortcuts/App Intents integration, premium tools, and StoreKit subscription features.
+Ay may include personal workspace, Ay chat, Profile chats, content organization, attachments, notes, checklists, quotes, links, locations, drawings, events, reminders, subtasks, todos, local notifications, camera capture, document scanning, PDF and EPUB features, voice messages, speech-to-text, Contents hub, search, Apple Calendar and Reminders sync, Apple Maps features, Apple Health water and step integrations, Apple Watch synchronization, widgets, Live Activities, Spotlight/Siri/Shortcuts/App Intents integration, Apple Intelligence-supported features, Translation-supported features, music playback and playlists, instrument tuning, sound-level measurement, speed and parking tools, travel planning, Pass document organization, routines, Focus sessions, Countdowns, meetings, recipes and timers, personal and home payment tracking, Education Library, study Cards, Readout, gaming and watchlist organization, Plan projects, Code Projects, local file and metadata analysis, Sense and SuperAy insights, duplicate detection, archives, import/export, drag-and-drop, Ay Account backup and restore, premium tools, and StoreKit subscription features.
 
 The App is provided as a personal organization and productivity tool. It is not a medical, legal, financial, accounting, tax, psychological, safety, emergency, academic, business-critical, or professional advisory service.
 
@@ -409,6 +409,8 @@ This process may not delete data that has already been:
 * Synced to Apple Reminders
 * Stored in iCloud or device backups
 * Stored in third-party calendar or reminder accounts
+* Written to Apple Health / HealthKit
+* Cached, displayed, or retained temporarily by a paired Apple Watch, widgets, Live Activities, Spotlight, Siri, or other Apple system surfaces until those systems refresh, expire, or remove that data
 * Exported to Files
 * Shared with another app
 * Shared with another person
@@ -491,37 +493,253 @@ You are responsible for:
 * Using the App lawfully
 * Managing your device and Apple ID
 * Managing permissions carefully
-* Managing iCloud, Photos, Calendar, Reminders, Siri, Spotlight, Shortcuts, and Apple Intelligence settings
+* Managing iCloud, Photos, Calendar, Reminders, Apple Health / HealthKit, Apple Watch, widgets, Live Activities, Siri, Spotlight, Shortcuts, Translation, location, microphone, and Apple Intelligence settings
 * Managing App Store subscriptions
 * Keeping your device updated
 * Maintaining enough storage
 * Keeping separate backups of important data
+* Securing exported Ay Account backup files and other exported archives or documents
+* Reviewing restore, bulk edit, move, drag-and-drop, Trash, and auto-delete actions before relying on them
 * Reviewing App outputs before relying on them
 * Reviewing AI outputs before relying on them
 * Reviewing AI-generated actions before applying them
-* Verifying calendar, reminder, map, OCR, speech, and file results
+* Verifying calendar, reminder, map, location, speed, parking, HealthKit, water, step, sound-level, tuning, timer, payment-tracking, OCR, translation, speech, file, duplicate, Code Project check, and derived insight results
 * Choosing appropriate content and profile information
 * Avoiding storage of highly sensitive or mission-critical information as the only copy
 * Understanding that deleting the App may affect local data
-* Understanding that Apple-controlled systems may affect payments, subscriptions, AI features, iCloud, Calendar, Reminders, Maps, Photos, App Store behavior, and device behavior
+* Understanding that Apple-controlled systems may affect payments, subscriptions, AI features, iCloud, HealthKit, Apple Watch synchronization, widgets, Live Activities, Calendar, Reminders, Maps, Photos, Translation, media playback, location services, App Store behavior, and device behavior
 
 35. Apple services and external services
 
-The App may rely on Apple frameworks and services, including iOS, Apple Intelligence, Foundation Models, Private Cloud Compute where applicable, Siri, Dictation, Speech, StoreKit, App Store, local notifications, Photos, Camera, Files, Calendar, Reminders, Maps, PDFKit, VisionKit, AVFoundation, Core Spotlight, Shortcuts, App Intents, iCloud backups, and device storage.
+The App may rely on Apple frameworks and services, including iOS, Apple Intelligence, Foundation Models, Private Cloud Compute where applicable, Siri, Dictation, Speech, Translation, StoreKit, App Store, local notifications, Photos, Camera, Files, Calendar, Reminders, HealthKit, Apple Watch and WatchConnectivity, WidgetKit, ActivityKit and Live Activities, Maps, Core Location, PDFKit, VisionKit, Quick Look, AVFoundation, MediaPlayer and system media routes, Core Spotlight, Shortcuts, App Intents, iCloud backups, and device storage.
 
 Apple services are governed by Apple’s own terms, policies, infrastructure, account rules, availability, privacy practices, and user settings.
 
-The developer cannot be held responsible for Apple service interruptions, Apple policy changes, Apple account issues, App Store issues, Apple Intelligence issues, StoreKit issues, payment issues, refund decisions, tax handling, Calendar/Reminders issues, Photos issues, Maps issues, Speech issues, Siri/Shortcuts/Spotlight issues, iCloud issues, or any Apple-controlled process.
+The developer cannot be held responsible for Apple service interruptions, Apple policy changes, Apple account issues, App Store issues, Apple Intelligence issues, StoreKit issues, payment issues, refund decisions, tax handling, HealthKit issues, Apple Watch or WatchConnectivity issues, widget or Live Activity behavior, Calendar/Reminders issues, Photos issues, Maps or Core Location issues, Translation issues, Speech issues, media route or playback issues, Siri/Shortcuts/Spotlight issues, iCloud issues, or any Apple-controlled process.
 
 If you export, share, open, copy, save, or send content to another app, person, platform, or service, that destination is outside the developer’s control. You are responsible for reviewing the destination’s terms and privacy practices.
 
-36. No third-party advertising or analytics
+36. Apple Watch and cross-device synchronization
+
+Ay may synchronize selected App content and feature state with a paired Apple Watch through Apple-managed WatchConnectivity and related system infrastructure.
+
+Depending on the features you use, synchronized Watch content may include agenda or calendar information, reminders, todos, Profile chats, messages, notes, thumbnails, routine state, Focus state, Countdowns, payment-tracking records, recipes, checklists, travel information, parking information, water entries, and other supported local App summaries or actions.
+
+Some supported actions performed from Apple Watch may change corresponding App data on the paired iPhone. You are responsible for reviewing actions performed from either device and for verifying the resulting state in the main App when the information or action is important.
+
+Apple Watch synchronization may be delayed, partial, stale, duplicated, delivered out of order, unavailable, or unsuccessful because of pairing state, reachability, Bluetooth or network conditions, background execution limits, device state, storage, permissions, watchOS or iOS behavior, Apple system scheduling, App updates, or other factors outside the developer’s control.
+
+The developer cannot be held responsible for stale Watch information, missed or delayed synchronization, unavailable Watch content, an action not reaching the paired device, an action being applied later than expected, temporary differences between iPhone and Watch state, or consequences caused by relying on a Watch snapshot before verifying current App data.
+
+Deleting or changing data in the main App may not cause an already delivered Watch snapshot or system cache to disappear immediately. Apple-controlled refresh, expiration, pairing, or system behavior may affect when such information is removed or updated.
+
+37. Widgets, Live Activities, and Apple system surfaces
+
+Ay may provide widgets, Live Activities, Lock Screen or Dynamic Island presentations, App Intents, Spotlight results, Siri/Shortcuts actions, and other Apple-managed system surfaces for supported App content.
+
+Depending on the feature, these surfaces may display or act on information such as events, agenda items, reminders, Profile chats, favorites, Contents items, quick actions, Countdowns, recipes, water, steps, Focus sessions, music playback, meeting or event timing, and other supported App state.
+
+System refresh timing, background execution, presentation, expiration, visibility, interaction delivery, and data caching are controlled partly or entirely by iOS and other Apple-managed systems. Information shown outside the main App may therefore be delayed, stale, incomplete, unavailable, or different from the latest state inside the App.
+
+Interactive widgets, Live Activities, App Intents, Siri, Shortcuts, or similar system actions may perform supported App actions without requiring the same navigation flow as opening the main App. You are responsible for reviewing the result of any action that matters to you.
+
+Content displayed on the Home Screen, Lock Screen, Dynamic Island, Apple Watch, Spotlight, Siri, widgets, Live Activities, notifications, or other system surfaces may be visible to people who can view or access your device, depending on your Apple privacy, notification, lock-screen, device, and system settings. You are responsible for choosing what information you expose through those surfaces and for managing the relevant Apple settings.
+
+The developer cannot be held responsible for stale or unavailable system-surface content, failed or delayed actions, unexpected system presentation, Apple-controlled caching, visibility caused by your device settings, or changes Apple makes to widgets, Live Activities, App Intents, Siri, Spotlight, Shortcuts, Lock Screen, Dynamic Island, or related system behavior.
+
+38. Apple Health / HealthKit, water, and step features
+
+Ay may use Apple Health / HealthKit for supported health-related convenience features when you enable them and grant the required permissions.
+
+The Step feature may read step-count information made available by HealthKit. Step results depend on the data sources in Apple Health, device and Apple Watch availability, HealthKit aggregation, permissions, time and date boundaries, Apple system behavior, and the accuracy and availability of the underlying sensors or source apps. Ay does not independently verify HealthKit step data.
+
+The Water feature is primarily a personal habit-tracking tool. If you enable its Health Sync option, Ay may write supported dietary-water entries to Apple Health and may attempt to remove HealthKit samples previously written by Ay when the corresponding supported action is used.
+
+Apple Health is an Apple-managed data store separate from Ay’s local data. A local Ay entry and its corresponding HealthKit entry may become temporarily or permanently different because of permission changes, user edits in Apple Health, HealthKit failures, device state, Apple system behavior, interrupted operations, or other factors. Deleting, resetting, or reinstalling Ay does not guarantee that information previously written to Apple Health will also be deleted.
+
+Water amounts, goals, progress, streaks, averages, reminders, and related results are for general habit awareness only. They do not measure your physiological hydration state, do not determine a medically appropriate water intake, and are not medical, nutritional, diagnostic, treatment, or safety advice. Hydration needs vary between people and circumstances, and excessive or insufficient fluid intake may be harmful. Consult a qualified professional for health-related decisions.
+
+The developer cannot be held responsible for inaccurate or unavailable HealthKit data, missing or duplicated HealthKit entries, Health permissions, Health data-source behavior, inaccurate step counts, user-entered water amounts, unsuitable water goals, missed water reminders, or health consequences resulting from reliance on these features.
+
+39. Sound-level measurement, instrument tuning, and music playback
+
+Ay may provide microphone-dependent sound-level and instrument-tuning tools and local music playback features.
+
+The Noise feature may estimate sound pressure-related levels and statistics using the device microphone, local signal processing, selected weighting, and any calibration value you configure. These results may vary materially between devices, microphones, audio routes, environments, calibration methods, hardware conditions, system processing, and operating-system behavior.
+
+Noise is not a certified sound-level meter, dosimeter, acoustic calibrator, hearing-protection device, occupational-safety instrument, regulatory measurement system, or professional environmental measurement service. A calibration performed or entered in the App does not convert the device into a certified measurement instrument. You must not rely on Noise to determine whether an environment is legally compliant, medically safe, or safe for hearing exposure.
+
+The Tune feature estimates musical pitch, note, cents, confidence, and related tuning information from microphone input. Results may be affected by background noise, harmonics, instrument characteristics, microphone response, audio routes, system processing, tuning configuration, reference pitch, and device capability. You are responsible for verifying tuning where precision matters.
+
+Music features may play user-selected or locally available media and may provide playlists, queue management, metadata, artwork, chapter information, duration or position information, waveform-derived displays, Now Playing information, system media controls, external audio routes, and a sleep timer. Playback, metadata, artwork, chapter detection, waveform information, position, queue order, route behavior, and sleep-timer behavior may be inaccurate, interrupted, unavailable, or changed by missing files, media format, device state, audio interruptions, system route changes, Apple frameworks, or user actions.
+
+A music sleep timer is a convenience playback control and must not be used as an alarm, safety timer, medical timer, or other time-critical mechanism.
+
+You are responsible for having the necessary rights to any audio or media you import, store, play, organize, export, or share through the App.
+
+The developer cannot be held responsible for inaccurate sound or tuning measurements, hearing or safety decisions, failed microphone analysis, interrupted playback, unavailable media, incorrect metadata, failed external audio routing, sleep-timer failures, or consequences caused by relying on these features.
+
+40. Speed, parking, travel, Pass, and location-based tools
+
+Ay may provide location-dependent tools such as speed information, distance or heading information, parking-location storage, travel planning, Quick Travel information, multi-stop route preparation, Apple Maps links, and Pass-related organization of user-selected documents or travel information.
+
+Location, speed, heading, distance, route, address, travel-time, and parking results depend on Core Location, Apple Maps, GPS and other device sensors, signal quality, reduced-accuracy settings, permissions, device placement, environmental conditions, map data, and Apple system behavior. Results may be delayed, inaccurate, unavailable, or materially different from real-world conditions.
+
+Ay’s speed and location tools are personal information and organization features. They are not a certified speedometer, odometer, navigation system, driver-assistance system, legal speed-compliance tool, vehicle-safety system, emergency-location system, or substitute for road signs, official maps, vehicle instruments, or safe driving judgment.
+
+Do not interact with the App in a manner that distracts you while driving, cycling, operating machinery, or performing another activity that requires attention. You are solely responsible for complying with traffic laws, road signs, applicable device-use laws, vehicle requirements, and safe operating practices.
+
+A saved parking location is only a recorded location estimate and does not guarantee the exact position, continued presence, security, legality, or availability of a vehicle or place.
+
+Travel plans, routes, stops, reminders, dates, destinations, directions, and Apple Maps links must be independently checked before travel. Ay does not guarantee route availability, entry requirements, schedules, connection times, transport availability, border or visa requirements, or arrival times.
+
+Pass-related features organize or display user-selected copies or records. Ay does not verify the authenticity, validity, current status, issuer acceptance, legal sufficiency, or official recognition of a ticket, pass, identification document, travel document, student or work credential, vehicle document, or other stored item. You are responsible for retaining and presenting any original or officially accepted document required by the relevant issuer, authority, carrier, venue, institution, or law.
+
+The developer cannot be held responsible for location or speed errors, unsafe driving decisions, parking-location errors, missed travel, route problems, invalid or rejected documents, expired information, travel disruption, fines, penalties, denied entry, or other consequences caused by reliance on these tools.
+
+41. Personal and Home payment tracking, forecasts, and reminders
+
+Ay may provide personal or household payment-tracking tools that are separate from App Store / StoreKit purchases and subscriptions.
+
+These tools may let you manually organize payment records, amounts, currencies, schedules, recurring periods, free trials, renewal dates, end dates, price history, reminders, summaries, forecasts, or similar financial-organization information.
+
+Ay does not initiate, receive, transfer, hold, debit, credit, authorize, settle, refund, cancel, or verify real-world payments. It does not access or control your bank, card, merchant, biller, subscription provider, utility provider, creditor, or other financial account through these local tracking features.
+
+Payment summaries, forecasts, upcoming-payment calculations, recurring schedules, price histories, averages, highest-month information, or similar results are derived from the data and recurrence settings available to the App and may be incomplete, outdated, or incorrect. They do not include or guarantee real-world taxes, fees, exchange rates, penalties, interest, merchant changes, account balances, payment status, cancellation status, or contractual obligations unless you independently enter and maintain the relevant information.
+
+Payment reminders and dates are convenience tools and may be missed, delayed, duplicated, or incorrect. You remain solely responsible for paying, canceling, renewing, disputing, or otherwise managing every real-world bill, subscription, contract, or payment directly with the relevant provider.
+
+Deleting, completing, pausing, hiding, or changing a payment record in Ay does not cancel, pause, modify, or satisfy the underlying real-world payment or service.
+
+The developer cannot be held responsible for missed or duplicate payments, late fees, service cancellation, unwanted renewals, incorrect forecasts, incorrect currency or amount information, financial loss, credit consequences, contractual consequences, or any decision made from payment-tracking information in the App.
+
+42. Routines, Focus, Countdowns, meetings, recipes, and other time-based tools
+
+Ay may provide routines, Focus sessions, Countdowns, meetings, todos, event timing, recipe timers, recurring schedules, progress or streak information, calendar links, notifications, Live Activities, and related time-based organization tools.
+
+Dates, times, durations, recurrence, streaks, progress, elapsed time, remaining time, session state, meeting state, recipe timer state, and related calculations may be affected by time-zone changes, daylight-saving changes, manual device-time changes, calendar settings, locale, app termination, device restart, low-power behavior, background execution, notification permissions, system scheduling, interrupted operations, or other operating-system behavior.
+
+You are responsible for checking critical times, recurrence rules, dates, linked Calendar items, reminders, and completion states before relying on them.
+
+Focus sessions and routine statistics are productivity and organization tools only and do not guarantee concentration, productivity, performance, health, exercise outcomes, or completion of any activity.
+
+Recipe timers and recipe information are convenience tools only. They do not determine food safety, cooking temperature, doneness, allergy safety, nutritional suitability, ingredient safety, storage safety, or whether food is safe to consume. Use appropriate food-safety practices and independently verify ingredients, allergens, temperatures, and cooking requirements.
+
+Meeting timers, agendas, participant records, notes, and actual start/end information are personal organization records and are not certified attendance, payroll, legal, contractual, or official timekeeping records.
+
+The developer cannot be held responsible for missed deadlines, missed meetings, incorrect recurrence, timer drift, failed timers, missed reminders, incorrect progress or streak information, food-safety consequences, productivity outcomes, or any consequence caused by relying on these time-based features.
+
+43. Education Library, EPUB/PDF reading, Cards, and Readout
+
+Ay may provide an Education Library for supported documents, PDF or EPUB reading, search, bookmarks, highlights, reading progress, text-to-speech or listening support, study Cards, review scheduling, assessment or answer-checking interactions, and Readout or teleprompter-style presentation.
+
+Imported books and documents may be unavailable or only partially supported because of corruption, encryption, digital rights management, unsupported formats, malformed structure, file size, missing resources, language, encoding, extraction limitations, Apple framework behavior, or device constraints.
+
+Search results, extracted text, text-to-speech, bookmarks, highlights, reading position, reading progress, document structure, page or chapter information, Card parsing, review scheduling, answer evaluation, study statistics, and other educational results may be incomplete, inaccurate, delayed, or lost.
+
+Cards, review schedules, progress measurements, answer checks, and study statistics are learning aids only. They do not constitute academic assessment, professional instruction, accreditation, certification, or a guarantee of learning, memory retention, examination results, grades, admissions, or academic performance.
+
+Readout speed, automatic scrolling, estimated progress, and related presentation controls are convenience features and should not be relied on for a time-critical, safety-critical, contractual, or professional performance requirement.
+
+EPUB or document content may contain external links. Opening an external destination leaves the App and is subject to that destination’s own content, availability, privacy practices, and terms.
+
+You are responsible for having the necessary rights to import, store, annotate, read, convert, listen to, export, or share books, documents, educational materials, and other content.
+
+The developer cannot be held responsible for unsupported or damaged documents, lost reading progress, incorrect study results, failed speech, external-link behavior, academic outcomes, or consequences caused by relying on educational features.
+
+44. Sense, SuperAy, duplicate detection, and derived App insights
+
+Ay may generate local summaries, connections, relationships, patterns, activity views, planning signals, workload information, attention items, readiness indicators, potential conflicts, file or resource warnings, duplicate results, storage estimates, and other derived insights through features such as Sense and SuperAy.
+
+These results are derived from App data, local snapshots, metadata, relationships, identifiers, timing information, and local analysis available at the time of calculation. They may be stale, incomplete, misclassified, duplicated, missing context, false positive, false negative, or otherwise unsuitable for a decision you intend to make.
+
+Terms such as “insight”, “intelligence”, “readiness”, “attention”, “professional”, “duplicate”, “conflict”, “pattern”, “relationship”, “potential”, or similar labels in the App describe organizational features and do not mean that a result has been professionally reviewed, independently verified, legally certified, or guaranteed to be correct.
+
+An exact-file, hash, identifier, metadata, or duplicate result does not by itself establish that an item is unnecessary, safe to delete, semantically identical for every purpose, non-infringing, secure, or recoverable elsewhere. Storage-savings estimates are estimates only.
+
+You are responsible for inspecting the underlying content before deleting, moving, reorganizing, sharing, relying on, or acting on any derived result. The developer cannot be held responsible for decisions, deletions, missed obligations, organization changes, storage decisions, travel decisions, project decisions, or other consequences caused by relying on derived App insights.
+
+45. Code Projects, local checks, and file analysis
+
+Ay may provide local Code Project features for creating, importing, viewing, editing, renaming, duplicating, deleting, searching, replacing, organizing, snapshotting, restoring, and sharing supported project files.
+
+The App may also provide local convenience checks or file analysis that can identify certain patterns such as possible dependency manifests, malformed supported data, formatting issues, large files, TODO/FIXME markers, possible secret-like strings, missing resources, metadata issues, or other detectable conditions.
+
+These checks are not a compiler, build system, runtime verifier, security audit, penetration test, malware scanner, secret-management system, dependency or supply-chain audit, legal review, copyright review, license-compliance review, App Store review, or professional code review. A check reporting no issue does not mean that code is correct, secure, private, commercially usable, compatible, licensed appropriately, free from secrets, free from vulnerabilities, or ready for release. A reported issue may also be a false positive.
+
+Find/replace, project-wide replacement, rename, delete, restore, import, drag-and-drop, and other editing operations can materially alter files or project structure. You are responsible for reviewing the scope and result of bulk or destructive changes and for maintaining independent backups before important edits.
+
+File previews, metadata extraction, structured-file analysis, geospatial or table analysis, encoding detection, local search, and similar file tools may be partial, truncated, unavailable, or inaccurate and do not certify the validity, integrity, safety, legality, or meaning of a file.
+
+You are solely responsible for reviewing source code, dependencies, licenses, credentials, secrets, privacy implications, security, export contents, App Store compliance, and commercial-release suitability before publishing, sharing, distributing, or using a project.
+
+The developer cannot be held responsible for broken projects, overwritten or deleted source files, missed secrets, missed dependencies, security vulnerabilities, licensing issues, build failures, release problems, incorrect file analysis, or consequences caused by using Code Project or file-analysis features.
+
+46. Imports, exports, archives, sharing, and drag-and-drop
+
+Ay may import, export, archive, unarchive, move, copy, share, or accept drag-and-drop content for supported App features.
+
+Imported or archived content may be malformed, corrupted, incomplete, unsupported, protected, too large, from an incompatible version, missing related resources, or contain metadata that cannot be preserved. An import may create a new copy, duplicate existing content, omit unsupported relationships, or produce a result that differs from the source format.
+
+Exports and portable archives are representations of the data that the relevant App feature is able to package at that time. They do not guarantee that every Apple-managed relationship, permission, system cache, external file, external account record, HealthKit item, Calendar or Reminder record, Photos item, subscription state, Apple Watch snapshot, or external-app state is included or restorable.
+
+Drag-and-drop and move/copy operations may relocate, duplicate, re-link, detach, replace, organize, or send content to Trash depending on the source, destination, and action. The App may attempt validation, transactional changes, or rollback where supported, but no such mechanism guarantees that every interrupted or failed operation can be restored without any data difference.
+
+You are responsible for verifying the destination and final state after important imports, exports, archive operations, bulk moves, copies, replacements, or drag-and-drop actions and for maintaining independent backups before destructive operations.
+
+Once content is exported, shared, copied, dragged to another app, saved to Files, or otherwise leaves the App, its storage, confidentiality, modification, deletion, retention, and further use are outside the developer’s control.
+
+The developer cannot be held responsible for corrupted imports, incompatible archives, missing resources, duplicate content, failed exports, failed rollback, incorrect destinations, external-app behavior, recipient behavior, or data loss resulting from these operations.
+
+47. Ay Account backup and restore
+
+Ay may provide an Ay Account backup feature for exporting and restoring supported local App data and preferences.
+
+An Ay Account backup may contain sensitive or private local information, including supported profile data, chats, messages, notes, attachments, media, documents, App files, preferences, and other locally stored App content included by the backup format.
+
+Ay Account backup files created by the current backup format are not encrypted by Ay. You are solely responsible for storing backup files only in locations you trust, protecting access to them, choosing recipients carefully, and deleting unwanted copies from Files, external storage, shared destinations, backups, or other locations under your control.
+
+Integrity checks, manifests, hashes, validation, staging, or other backup safeguards are intended to detect or reduce certain technical failures. They do not encrypt the backup and do not guarantee confidentiality, completeness, authenticity of an untrusted source, future compatibility, successful restoration, or protection against every form of corruption, tampering, data loss, or unauthorized access after the file leaves App-controlled storage.
+
+Restoring an Ay Account backup may replace the current local Ay Account data, App files, and preferences on the device with the contents of the selected backup. Current local changes may be overwritten or lost. A restore may be irreversible unless you have another valid independent backup.
+
+The App may validate and stage a restore and may attempt transactional recovery when a restore fails, but interrupted operations, insufficient storage, file-system failures, corrupted backups, unsupported backup versions, operating-system behavior, or device failure can still result in an incomplete restore, unavailable data, or differences from the pre-restore state.
+
+An Ay Account backup does not guarantee restoration of data controlled separately by Apple or another destination, including Apple Health / HealthKit data, Apple Calendar or Reminders records, Photos-library items, iCloud or device backups, App Store / StoreKit transaction state, Apple Watch or widget caches, Live Activities, Spotlight indexes, external apps, or content previously exported or shared elsewhere.
+
+You are responsible for keeping independent backups of important information and for verifying a restored App before deleting your other copies.
+
+To the maximum extent permitted by applicable law, the developer cannot be held responsible for disclosure caused by your handling of an unencrypted exported backup, failed backup creation, failed validation, failed or partial restoration, overwrite of current local data, incompatible backup versions, insufficient storage, damaged backup files, lost backup files, or consequences resulting from backup or restore operations.
+
+48. Trash, auto-delete, expiration, and permanent deletion
+
+Ay may provide Trash, retention, expiration, auto-delete, clear, reset, or permanent-delete behavior for supported content. Different App features may use different retention periods or deletion rules.
+
+Certain features may allow you to configure automatic deletion after a period or at a selected date. Certain content types may remain recoverable in Trash for a limited period and may then be permanently purged. A Trash or recovery view is a temporary convenience and must not be treated as a backup or permanent archive.
+
+Depending on the feature, deleting or expiring an item may also affect locally linked content, linked events, attachments, indexes, thumbnails, derived data, or related records. Data already exported, shared, synchronized to Apple-managed systems, written to HealthKit, saved to Photos or Files, delivered to Apple Watch or a system surface, or stored by another app may require separate management and may not be removed at the same time.
+
+Permanent deletion, Trash expiration, configured auto-delete, account reset, and some cleanup operations may be irreversible. You are responsible for reviewing deletion settings, retention dates, selected items, and linked effects and for exporting or backing up anything you need before a destructive action occurs.
+
+The developer cannot be held responsible for content deleted because of user-configured auto-delete, Trash expiration, permanent deletion, cleanup, reset, linked-item behavior, or failure to keep an independent backup.
+
+49. Apple Translation and system-generated transformations
+
+Ay may provide translation or other supported text transformations through Apple-managed system frameworks when available.
+
+Translations may be inaccurate, incomplete, ambiguous, unavailable, delayed, or unsuitable because of language support, context, terminology, model behavior, device capability, Apple settings, operating-system version, or Apple service availability.
+
+A translation or transformed text is not a certified, sworn, professional, legal, medical, financial, academic, safety, or human-reviewed translation. You are responsible for verifying important text with an appropriately qualified person before relying on, sending, publishing, signing, submitting, or acting on it.
+
+The developer does not control Apple’s translation models, supported languages, downloads, model updates, system behavior, or availability and cannot be held responsible for translation errors or consequences caused by relying on translated or transformed text.
+
+50. No third-party advertising or analytics
 
 Ay does not use third-party advertising SDKs, third-party analytics SDKs, third-party crash analytics SDKs, or cross-app tracking.
 
 Apple may provide diagnostics to developers if you have enabled sharing diagnostics with app developers in your device settings. This is controlled by Apple and your device settings.
 
-37. Intellectual property
+51. Intellectual property
 
 The App, including its design, code, structure, organization, features, visual elements, and original content, is protected by intellectual property laws.
 
@@ -533,23 +751,23 @@ If AI-supported features generate content similar to existing material or unsuit
 
 The developer is not responsible for copyright, trademark, publicity, privacy, contractual, or other rights issues caused by user content, imported content, scanned content, recorded content, shared content, or AI output that you choose to use.
 
-38. Export control and legal compliance
+52. Export control and legal compliance
 
 You may not use or export the App in violation of applicable laws, sanctions, export controls, or Apple rules.
 
 You represent that you are not located in a country or region subject to restrictions that prohibit your use of the App and that you are not listed on any restricted party list that would make your use unlawful.
 
-39. Force majeure
+53. Force majeure
 
 The developer cannot be held responsible for failures, interruptions, delays, data issues, service issues, unavailable features, AI limitations, payment issues, backup problems, or App unavailability caused by events outside the developer’s reasonable control, including natural disasters, internet outages, governmental actions, legal restrictions, platform restrictions, Apple service issues, security incidents, labor disruptions, war, civil unrest, pandemics, power outages, infrastructure failures, or other force majeure events.
 
-40. Privacy
+54. Privacy
 
 Your use of the App is also governed by the App’s Privacy Policy.
 
 The Privacy Policy explains what data the App may process, how local-first App data works, how Apple-managed services may be involved, how Apple Intelligence-supported features may use context, how StoreKit subscription/payment processes work, and how privacy rights may apply.
 
-41. Limitation of liability
+55. Limitation of liability
 
 To the maximum extent permitted by applicable law, the developer cannot be held responsible for indirect, incidental, special, consequential, exemplary, punitive, economic, financial, business, academic, productivity, reputational, emotional, personal, or data-related damages arising from or related to your use of the App.
 
@@ -573,6 +791,21 @@ This includes damages, losses, or consequences related to:
 * Sync delays
 * Calendar conflicts
 * Reminder conflicts
+* Apple Watch synchronization errors or stale Watch data
+* Widget, Live Activity, Lock Screen, Dynamic Island, Spotlight, Siri, Shortcut, or App Intent errors
+* HealthKit read/write errors, step-count errors, or water-sync errors
+* Sound-level or tuning measurement errors
+* Location, speed, parking, travel, route, or Pass errors
+* Personal or Home payment-tracking, forecast, schedule, or reminder errors
+* Routine, Focus, Countdown, meeting, recipe-timer, or other time-based errors
+* Music playback, metadata, queue, route, or sleep-timer errors
+* Education Library, EPUB/PDF reading, Cards, Readout, bookmark, highlight, or progress errors
+* Sense, SuperAy, duplicate-detection, relationship, planning, readiness, or derived-insight errors
+* Code Project, local-check, bulk-edit, snapshot, restore, or file-analysis errors
+* Import, export, archive, drag-and-drop, move, copy, or rollback errors
+* Ay Account backup disclosure, backup failure, restore failure, or overwrite of current local data
+* Trash expiration, auto-delete, permanent deletion, or linked-item deletion
+* Translation errors
 * Photos issues
 * File issues
 * OCR errors
@@ -613,7 +846,7 @@ This includes damages, losses, or consequences related to:
 
 The App is a personal organization tool and should not be relied upon as the sole place to store important, sensitive, legal, financial, medical, academic, business-critical, emergency, or mission-critical information.
 
-42. Disclaimer of warranties
+56. Disclaimer of warranties
 
 To the maximum extent permitted by applicable law, the App is provided without warranties of any kind, whether express, implied, statutory, or otherwise.
 
@@ -629,12 +862,17 @@ The developer does not warrant that:
 * AI features will always be available
 * Notifications will always be delivered
 * Calendar or Reminder sync will always be correct
+* Apple Watch synchronization, widgets, Live Activities, or system-surface information will always be current or available
+* HealthKit data, step information, water synchronization, location, speed, sound-level, tuning, timer, payment-tracking, or derived measurements will always be accurate
+* Ay Account backups, archives, imports, exports, restores, Trash recovery, auto-delete behavior, or rollback operations will always preserve or recover data
+* Code Project checks, file analysis, duplicate detection, Sense, SuperAy, translation, educational results, or other derived App results will identify every issue or be correct
+* Music playback, external audio routes, media metadata, or sleep timers will always operate as expected
 * OCR or speech recognition will always be accurate
 * Premium features will remain unchanged
 * Apple services will remain available
 * The App will be compatible with all future iOS versions or Apple policy changes
 
-43. Termination
+57. Termination
 
 The developer may suspend or terminate your right to use the App if you violate these Terms, misuse the App, attempt to bypass subscription or security systems, violate applicable law, or use the App in a harmful or abusive way.
 
@@ -642,13 +880,13 @@ You may stop using the App at any time by deleting it from your device.
 
 Deleting the App may delete local data and may not cancel active App Store subscriptions. Subscriptions must be managed through Apple.
 
-44. Changes to these Terms
+58. Changes to these Terms
 
 The developer may update these Terms from time to time.
 
 The updated Terms will show a new “Last updated” date. Continued use of the App after updated Terms become available means you accept the updated Terms.
 
-45. Contact
+59. Contact
 
 For questions about these Terms:
 
