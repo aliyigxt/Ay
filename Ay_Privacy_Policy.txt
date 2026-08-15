@@ -1,12 +1,14 @@
 Privacy Policy for Ay
 
-Last updated: July 6, 2026
+Last updated: August 15, 2026
 
-This Privacy Policy explains how Ay (“the App”, “we”, “our”, or “us”) handles information. Ay is designed as a personal workspace, conversation organizer, content library, planning tool, camera/document utility, and Apple Intelligence-supported assistant experience with a local-first approach.
+This Privacy Policy explains how Ay (“the App”, “we”, “our”, or “us”) handles information. Ay is designed with a local-first architecture: App content is generally kept on your device unless you choose a feature that uses an Apple-managed system service or you deliberately export, share, save, synchronize, or back up content elsewhere.
 
 We do not sell your data. We do not use third-party advertising SDKs, third-party analytics SDKs, third-party crash analytics, data brokers, or cross-app tracking.
 
-Most App data is stored locally on your device. The App does not operate a custom backend server and does not provide a server-based account system. Some data may be processed by Apple-managed services only when you choose to use features that depend on iOS, Apple Intelligence, StoreKit, Calendar, Reminders, Maps, Photos, Speech, Spotlight, Siri, Shortcuts, App Store, iCloud device backup, or other Apple system services.
+Most App data is stored locally on your device or in local/shared containers used by Ay and its extensions. The App does not operate a custom backend server and does not provide a server-based account system. Some features interact with Apple system frameworks or Apple-managed services. Use of an Apple framework does not by itself mean that data leaves your device or becomes accessible to the developer. Where an Apple-managed service processes data, Apple’s applicable privacy disclosures, permissions, terms, and device settings apply. Data that you deliberately export, share, save, synchronize, or back up outside Ay may also be handled by the destination you select.
+
+For clarity, this Policy distinguishes local/on-device processing from information transmitted to or retained by a developer-operated service. Ay does not operate a backend service that receives your ordinary App content.
 
 1. Contact
 
@@ -86,16 +88,11 @@ This data is used to provide Profile chats, the Contents hub, search, media prev
 
 2.4 Contacts selected by you
 
-If you choose to create a Profile chat from a contact, the App may access the iOS contact picker. The App only receives the contact you select.
+If you choose a person through an Apple contact picker for a Profile chat, Team, meeting, or another supported people-related feature, the App receives only information made available for the contact you select through that system interaction.
 
-The App may store limited selected contact data such as:
+The App may locally store the limited selected-contact information needed by the feature, such as the contact identifier, display name, stable local matching key, optional contact thumbnail/avatar, and—where the selected feature uses them—phone numbers or email addresses.
 
-* Contact identifier
-* Display name
-* Stable local matching key
-* Optional contact thumbnail/avatar
-
-The App does not scan your full address book for advertising, analytics, or tracking. Contact data is used only to create and manage the selected Profile chat.
+Phone numbers and email addresses are used only for the selected local people-related feature or user-initiated communication actions. Ay does not scan or upload your full address book to a developer-operated server and does not use selected contact information for advertising, analytics, data brokerage, or cross-app tracking.
 
 2.5 Photos, camera, files, voice, and document scanning
 
@@ -154,18 +151,15 @@ Calendar and Reminders data may also be processed, stored, synced, or backed up 
 
 If you allow notifications, the App uses local notifications for event, message, or Profile chat reminders. The App does not use push notification servers and does not upload notification tokens to a developer server. Notification previews may appear on your device lock screen or notification center depending on your iOS settings.
 
-2.8 Location pins, Maps, and place search
+2.8 Location, Maps, Speed, Parking, Travel, and place information
 
-If you use location features, the App may store:
+If you deliberately save a location, parking position, or Travel stop, Ay may store the location information needed for that saved item locally. This can include a title or address, coordinates, and, for a saved parking position, capture time, location accuracy, and an optional parking note.
 
-* Location title
-* Optional subtitle/address
-* Latitude and longitude
-* Apple Maps link information
+When you use the Speed tool, Core Location measurements are processed on-device during the active Speed session to calculate and display the requested measurements. The Speed tool does not create a persistent trip or location-history record in Ay.
 
-Ay may use Apple MapKit for map display, place search, reverse geocoding, and Apple Maps links. Search queries, map data, geocoding, and Maps-related behavior may be processed by Apple according to Apple’s policies and your device settings.
+Ay may use Apple Core Location and MapKit for current-location access, map display, place search, reverse geocoding, and Apple Maps links. Use of these system frameworks does not mean that the developer receives your location. Apple-managed Maps or location services, where involved, are governed by Apple’s policies and your device settings.
 
-Ay does not use saved location pins for advertising, tracking, or selling personal data.
+Saved Ay location records remain local until you remove them or reset local App data. Ay does not use location data for advertising, data brokerage, sale, or cross-app tracking.
 
 2.9 Apple Intelligence and AI-supported features
 
@@ -246,6 +240,98 @@ We do not receive, process, or store your payment card information.
 
 The App may store a local subscription entitlement state to unlock premium features. Apple may retain purchase and transaction information according to Apple’s own legal, financial, App Store, tax, and account requirements.
 
+2.15 Apple Health, HealthKit, Steps, and Water
+
+Ay offers optional Apple Health-integrated features for steps and water.
+
+If you grant the required Health permissions, Ay reads authorized step-count data from HealthKit on-device to calculate and display step information. Ay does not create its own long-term step-history database. A limited current step summary may be stored locally in Ay’s shared App-group storage when needed for the Ay step widget.
+
+Water entries that you create in Ay are stored locally. If you explicitly enable and authorize Health synchronization, Ay can write those user-entered water entries to Apple Health and can request deletion of Apple Health water samples that were created by Ay when the corresponding synchronized Ay entry is deleted. A limited current water summary may also be stored locally for the Ay water widget.
+
+HealthKit permissions are controlled by Apple and by you. Ay does not use HealthKit data for advertising, cross-app tracking, data brokerage, or sale and does not operate a developer-controlled health-data server.
+
+Ay’s local water records are separate from records stored in Apple Health. Deleting or resetting Ay does not by itself guarantee deletion of data that has already been written to Apple Health; Apple Health data may need to be managed separately through Apple’s system interfaces.
+
+2.16 Apple Watch and WatchConnectivity
+
+If you use Ay’s Apple Watch companion, selected Ay content and synchronization state needed for the Watch feature you use may be transferred between your iPhone and paired Apple Watch through Apple WatchConnectivity. The Watch may keep local snapshots or temporary synchronization state needed to display content and apply user-initiated Watch actions.
+
+Ay does not route Watch synchronization through a developer-operated backend server and does not use Watch-synchronized content for advertising, analytics, data brokerage, or cross-app tracking.
+
+Apple controls parts of WatchConnectivity delivery, pairing, caching, and device-side lifecycle. A locally cached or system-rendered copy on one device may not disappear at exactly the same moment as the corresponding data on the other device.
+
+2.17 Widgets, Live Activities, App extensions, and system surfaces
+
+Ay may use Apple WidgetKit, ActivityKit, App Intents, shared App-group storage, and related system frameworks to display limited Ay information in widgets, Live Activities, Dynamic Island, Lock Screen, StandBy, or other Apple system surfaces that you choose to use.
+
+Only the local snapshot or state needed to render the enabled surface is copied into the relevant Ay shared/system state. This is an Apple platform integration and is not a developer-operated cloud database or analytics collection system.
+
+Information shown on a widget, notification, Live Activity, Lock Screen, Dynamic Island, StandBy, Apple Watch, or similar system surface may be visible without opening Ay depending on your device, lock-screen, notification, and privacy settings.
+
+2.18 Noise and Tune microphone processing
+
+If you use Noise or Tune, Ay accesses the microphone only after the required system permission is granted. Live microphone samples are processed on-device during the active tool session to calculate the requested sound or tuning result and are not intentionally saved by Noise or Tune as ordinary audio recordings.
+
+Ay may save local settings needed by these tools, such as Noise calibration or Tune/custom-tuning settings. This is separate from features where you deliberately create and save a voice or audio recording.
+
+Noise and Tune microphone input is not used for advertising, analytics, data brokerage, or cross-app tracking.
+
+2.19 Music, local media, playback, and derived media data
+
+Ay does not automatically scan your Apple system music/media library as a developer data source and does not upload your music or media content to a developer-operated server.
+
+Media that you have already added to Ay, imported into Ay, or otherwise selected through a supported user action is processed on-device as needed for playback. Ay may keep limited local playback state and derived local cache data needed to resume playback or provide responsive previews and controls. These local technical records are not used to build an advertising or tracking profile.
+
+Apple system media frameworks and system playback surfaces may use limited playback state as required to provide the controls or display you invoke. Ay does not operate a developer streaming server.
+
+2.20 Personal and Home payment-tracking data
+
+If you create Personal or Home payment-tracking records, those records are user-entered App content stored locally for organization, forecasting, reminders, and planning. They are separate from App Store subscription billing.
+
+This feature does not receive payment-card credentials and does not initiate, authorize, settle, cancel, or verify real-world financial transactions. Ay does not send these local payment-tracking records to a developer-operated payment server or use them for advertising, analytics, data brokerage, or cross-app tracking.
+
+If you deliberately use another Ay feature that exposes selected App content to an Apple-managed system surface or Apple Intelligence, the corresponding section of this Privacy Policy applies.
+
+2.21 Routines, Focus, Countdowns, meetings, recipes, timers, and productivity records
+
+Ay may store the user-created records needed for Routines, Focus, Countdowns, meetings, recipes, timers, Cards, and related productivity features locally on your device.
+
+When you enable or invoke an Apple system integration for one of these records—such as a local notification, widget, Live Activity, Apple Watch action, Calendar/Reminders sync, Spotlight, Siri, Shortcuts, or App Intents—only the information needed for that integration is made available through the relevant system feature, subject to the applicable section of this Privacy Policy.
+
+2.22 Education Library, EPUB/PDF reading, Cards, and Readout
+
+Documents, EPUBs, PDFs, Cards, and other supported material that you import or create for Ay’s education and reading features are stored locally when the feature requires persistence. Ay may also store user-created reading/library state such as progress, annotations, organization, or reminder settings.
+
+Rendering, search, text extraction, and Readout-related processing are performed locally or through Apple system frameworks used by the requested feature. Ay does not operate a developer document-reading or text-to-speech server. If you explicitly use Apple Intelligence with relevant content or open an external link, the corresponding Apple Intelligence or external-destination rules in this Privacy Policy apply.
+
+2.23 Sense, SuperAy, duplicate detection, and derived local insights
+
+Sense, SuperAy, duplicate detection, and related insight features analyze Ay’s local App data on-device to produce organization or activity insights. This local analysis is not third-party advertising analytics and is not sent to a developer-operated analytics server.
+
+Ay also keeps a local Sense activity-history record for supported App actions. In the current implementation, detailed Sense history events are retained locally for up to approximately 730 days. Aggregate counters or known-item state used by the feature may remain longer until the related local data is deleted or Ay is reset.
+
+2.24 Code Projects and local file analysis
+
+Code Project files that you create, import, or edit are processed and, where the feature requires it, stored locally by Ay. Code Project searches, checks, and analysis are performed locally by the App.
+
+Ay does not upload Code Project contents to a developer-operated source-code analysis server. If you deliberately export or share project content, the selected destination controls the external copy. If you explicitly use an Apple Intelligence-supported feature with project content, Section 2.9 applies.
+
+2.25 Apple Translation and other system transformations
+
+When you deliberately invoke a supported translation action, the selected text is processed through Apple’s Translation framework as needed to perform that request. Ay does not operate its own translation server. Use of the Apple Translation framework does not by itself mean that the developer receives the selected text; processing location and language-resource behavior are controlled by Apple and your device.
+
+Translated text that you choose to save or send becomes ordinary App or shared content and follows the applicable storage and sharing rules in this Privacy Policy.
+
+2.26 Imports, exports, archives, sharing, drag and drop, and Ay Account backup/restore
+
+Ay supports user-directed import, export, share, open-in, copy/paste, drag-and-drop, archive, and Ay Account backup/restore workflows.
+
+When you import content into Ay, the App receives the content you selected and stores it locally only where the chosen feature requires persistence. When you export, share, copy, drag, save, or open content outside Ay, the destination may receive a copy; after that copy leaves Ay’s control, the destination and your actions govern its storage, retention, security, and deletion.
+
+An `.ayaccount` backup contains the App-owned persistent data included by Ay’s backup system and may therefore contain sensitive App content. The current `.ayaccount` format includes integrity validation but is not encrypted by Ay. Integrity validation does not provide confidentiality or access control. You are responsible for protecting the exported backup file and the Files, iCloud Drive, or other destination where you place it.
+
+During restore, Ay processes the selected backup locally and may replace existing local Ay data. Apple-managed or externally stored data—such as content already stored in Apple Health, Photos, Calendar, Reminders, iCloud/device backups, a paired Apple Watch, external Files locations, other apps, or recipient devices—is not necessarily included in or restored by an Ay backup.
+
 3. Data we do not collect or use
 
 Ay does not use:
@@ -262,9 +348,9 @@ Ay does not use:
 * A developer-operated payment processor
 * A developer-operated user database
 
-The App does not provide a real server-based account. Any profile/account inside the App is a local app profile.
+The App does not provide a real server-based account. Any profile/account inside the App is a local app profile. Ay also does not operate developer servers for Health data, Apple Watch synchronization, media streaming, translation, or Code Project analysis.
 
-Apple may separately process App Store, StoreKit, Apple Intelligence, Siri, Dictation, Speech, Maps, Calendar, Reminders, Photos, iCloud, device backup, diagnostics, Spotlight, Shortcuts, and purchase-related information according to Apple’s own privacy practices, terms, and user settings.
+Some Apple-managed services may separately process information when you choose to use the relevant feature, for example App Store/StoreKit, Apple Intelligence, Speech/Dictation, Maps, Calendar/Reminders, Photos, HealthKit, iCloud/device backup, or Apple diagnostics. Other Apple frameworks used by Ay may operate locally on your device. Apple-managed processing is governed by Apple’s own privacy practices, permissions, terms, and system architecture.
 
 4. How we use data
 
@@ -275,22 +361,23 @@ We use App data only to:
 * Personalize your local profile
 * Manage Ay conversations
 * Manage Profile chats and structured content
-* Store selected attachments
-* Create thumbnails and previews
+* Store selected attachments and user-created local content
+* Create local thumbnails, previews, search indexes, and other feature-supporting state
 * Search and organize content
 * Provide the Contents hub
-* Record voice messages
+* Record voice messages when you request recording
 * Support speech-to-text input
 * Scan documents and create PDFs
-* Display and search PDFs
-* Extract readable text locally where available
+* Display, search, and locally process supported files
 * Create and manage events, reminders, subtasks, and notifications
 * Sync with Apple Calendar and Reminders when enabled
 * Save selected images to Photos when requested
-* Support Apple Intelligence-powered responses when available
-* Prepare user-reviewed action suggestions
-* Support Spotlight, Siri, Shortcuts, and App Intents where available
+* Support Apple Intelligence-powered features when you invoke them
+* Support Spotlight, Siri, Shortcuts, App Intents, widgets, Live Activities, and Apple Watch features when used
+* Access authorized HealthKit data only for the supported step/water functionality you enable
+* Provide on-device microphone analysis, media playback, productivity tools, Sense/SuperAy, duplicate detection, and Code Project functionality
 * Verify subscription access through Apple StoreKit
+* Import, export, share, back up, and restore App content at your direction
 * Delete or reset local App data when requested
 
 We do not use your data for advertising or cross-app tracking.
@@ -316,7 +403,8 @@ We rely on your consent for permissions and optional features such as:
 * Notifications
 * Calendar access
 * Reminders access
-* Location/map interactions where applicable
+* Apple Health/HealthKit access for the supported step and water features
+* Location access for current-location, Speed, Parking, Travel, Maps, or related features where applicable
 * Apple Intelligence-supported context usage
 * Apple system integrations such as Siri, Shortcuts, Spotlight, or App Intents where controlled by system settings
 
@@ -335,38 +423,32 @@ Apple may retain transaction-related data for tax, accounting, legal, financial 
 Data may be stored:
 
 * Locally on your device
-* In the App’s local Application Support, Documents, Caches, or temporary folders
-* In UserDefaults for settings and entitlement state
+* In the App’s local Application Support, Documents, Caches, temporary folders, or UserDefaults where required by a feature
+* In Ay’s local App-group container/shared preferences used by Ay widgets and extensions
 * In Apple Photos if you save images there
+* In Apple Health when you explicitly authorize Ay to write supported water entries
+* On a paired Apple Watch when you use Ay Watch features
 * In Apple Calendar and Reminders if native sync is enabled
-* In Apple Spotlight/Siri/Shortcuts indexing systems where applicable
+* In Apple-managed widget, Live Activity, Now Playing, Spotlight/Siri/Shortcuts, or similar system state where applicable
 * In Apple StoreKit/App Store systems for subscription and purchase handling
-* In Apple-managed iCloud device backups, iCloud Photos, iCloud Calendar, iCloud Reminders, or other Apple/account systems depending on your device settings and enabled services
-* In third-party calendar/reminder accounts configured on your device if your Apple Calendar or Reminders data syncs with those accounts
-* In apps or services you choose through export, share, open-in, or import workflows
+* In Apple-managed iCloud device backups, iCloud Photos, iCloud Calendar, iCloud Reminders, or other Apple/account systems depending on your settings
+* In third-party calendar/reminder accounts configured on your device if Apple Calendar or Reminders syncs with those accounts
+* In apps, recipients, Files locations, or services you deliberately choose through export, share, open-in, drag-and-drop, copy, or similar workflows
+* In `.ayaccount` or other archives that you deliberately export
 
-Ay does not currently operate a developer-controlled CloudKit sync database or custom backend server for user accounts.
+Ay does not operate a developer-controlled CloudKit sync database or custom backend server for user accounts. Local App-group storage is an Apple-provided local container used by Ay and its configured extensions, not a developer cloud service.
+
+The current `.ayaccount` backup format is not encrypted by Ay. Exported backup archives should be treated as potentially sensitive files and protected using the security controls of the destination you choose.
 
 7. Data sharing
 
 We do not sell your data.
 
-Data may be processed through Apple services only when needed for App functionality or when you choose to use Apple system features, including:
+Ay uses Apple system frameworks and, for some features, Apple-managed services. Use of an Apple framework does not by itself mean that data is transmitted off-device, shared with the developer, or stored by Apple. Where a user-requested feature uses Apple-managed processing—such as StoreKit/App Store, Apple Intelligence, Speech/Dictation, Maps, Calendar/Reminders, Photos, HealthKit, Translation, iCloud/device backup, or other Apple services—Apple’s applicable privacy disclosures, permissions, terms, and system architecture govern that processing.
 
-* Apple StoreKit/App Store for subscriptions and purchases
-* Apple Intelligence/Foundation Models for supported assistant features
-* Apple Speech/Dictation for speech-to-text
-* Apple Photos for selected photo access and saving images
-* Apple Camera and AVFoundation for camera and microphone features
-* Apple Vision/VisionKit/PDFKit for document scanning, OCR, and PDF features
-* Apple Calendar and Reminders through EventKit when sync is enabled
-* Apple Maps/MapKit for location search, geocoding, map display, and Apple Maps links
-* iOS local notifications for reminders
-* Apple Spotlight, Siri, Shortcuts, and App Intents for search and navigation
-* Apple diagnostics if enabled in device settings
-* Apple iCloud/device backup systems depending on your settings
+Apple WatchConnectivity, WidgetKit, ActivityKit, MediaPlayer/Now Playing, and similar system integrations may move or expose limited feature state between your own devices, Ay extensions, or Apple system surfaces without creating a developer-operated server copy.
 
-If you export, share, save, copy, open, or send content outside the App, the destination app, service, recipient, or platform may process that data under its own policies. The developer is not responsible for external services or recipients selected by you.
+If you export, share, save, copy, drag, open, back up, or send content outside the App, the destination app, service, recipient, Files/iCloud location, or platform may receive a copy. The developer does not control copies or recipients selected by you after the content leaves Ay’s control.
 
 8. Payment, billing, subscriptions, and Apple services
 
@@ -378,48 +460,23 @@ To the maximum extent permitted by applicable law, the developer is not responsi
 
 9. Apple Intelligence, Apple services, and developer responsibility
 
-Apple Intelligence, Apple Foundation Models, Private Cloud Compute where applicable, Siri, Dictation, Speech, App Store, StoreKit, Calendar, Reminders, Maps, Photos, Spotlight, Shortcuts, iCloud, device backups, and Apple diagnostics are Apple-managed systems.
+Apple-managed services and system frameworks used by Ay are controlled in whole or in part by Apple, your device, your account settings, and the permissions you grant.
 
-By using Apple-managed features through Ay, you acknowledge that those features may be subject to Apple’s own privacy policy, data practices, disclosures, terms, system permissions, device settings, regional availability, and service limitations.
+By using an Apple-managed feature through Ay, you acknowledge that the relevant Apple privacy disclosures, terms, permissions, system settings, regional availability, and service limitations may apply.
 
-To the maximum extent permitted by applicable law, the developer is not responsible for:
-
-* Apple service outages
-* Apple account issues
-* Apple ID/iCloud problems
-* Apple Intelligence availability
-* Apple model behavior
-* Apple AI output quality
-* Apple privacy or data processing practices
-* Apple Calendar/Reminders sync behavior
-* Apple Photos behavior
-* Apple Maps search/geocoding behavior
-* Apple Speech/Dictation behavior
-* Apple StoreKit/App Store behavior
-* Apple diagnostic reports
-* iCloud backup or restore behavior
-* Device, OS, permission, storage, network, or account settings controlled by Apple or the user
+To the maximum extent permitted by applicable law, the developer is not responsible for Apple-controlled service availability, Apple account/iCloud issues, Apple Intelligence behavior, StoreKit/App Store behavior, Apple Calendar/Reminders synchronization, Apple Photos or Maps behavior, HealthKit authorization/storage behavior, Apple Watch/WatchConnectivity delivery or pairing, WidgetKit/ActivityKit/system-surface behavior, Speech/Dictation or Translation behavior, Apple diagnostics, iCloud backup/restore behavior, or other device/OS behavior outside the developer’s control.
 
 10. Data retention
 
-Local App data remains on your device until you delete it, reset local App data, remove specific content, or uninstall the App.
+Local App data generally remains on your device until you delete it, reset local App data, remove specific content, a feature applies its configured local retention rule, or you uninstall the App.
 
-Some deleted content may remain temporarily in local trash, undo, cache, temporary, backup, exported, shared, or Apple-managed systems depending on the feature used and your device settings.
+Some local Trash features retain deleted items for approximately 7 days before expiration or permanent deletion. Detailed Ay Sense activity-history events are currently retained locally for up to approximately 730 days; aggregate Sense counters or known-item state may remain longer until the related data is deleted or Ay is reset.
 
-View-once media, auto-delete content, deleted messages, and temporary files are designed to be removed according to App logic, but deletion may not be guaranteed in every circumstance, such as:
+Exported `.ayaccount` backups and other exported files remain at the destination you chose until you or that destination deletes them. Ay cannot automatically delete external copies after export.
 
-* Device storage failure
-* OS interruption
-* App crash
-* File system error
-* Backup copies
-* Screenshots or screen recordings
-* Exported/shared copies
-* Photos saved to the library
-* Calendar/Reminders copies
-* iCloud/device backups
-* Third-party app copies
-* Recipient copies outside the App
+Data stored separately through Apple Health, Apple Calendar/Reminders, Photos, a paired Apple Watch, Apple system surfaces, iCloud/device backups, third-party apps, or recipients follows the retention and deletion behavior of those locations.
+
+Some deleted content may also remain temporarily in local trash, undo, cache, temporary, backup, exported, shared, or Apple-managed systems depending on the feature and device state.
 
 Apple may retain purchase, transaction, diagnostic, account, or service-related information according to Apple’s own legal, financial, privacy, and operational requirements.
 
@@ -448,6 +505,8 @@ This may delete or reset:
 * Saved local images
 * Contact avatars stored by the App
 * Local subscription entitlement cache
+* Local records created by supported productivity, payment-tracking, education/reading, media, Code Project, Sense/SuperAy, travel/parking, water, Watch, and widget features where technically available
+* Related App-owned local caches, shared snapshots, and synchronization state where technically available
 * Spotlight/App Intents indexed items where technically available
 * App-related UserDefaults
 * App-related Application Support, Documents, Caches, and temporary data where technically available
@@ -457,16 +516,20 @@ Because the App does not use a custom backend account system, “Delete Account�
 This process may not delete data that has already been:
 
 * Saved to Apple Photos
+* Written to or retained by Apple Health
+* Transferred to or cached on a paired Apple Watch
+* Displayed or cached by Apple system surfaces or extensions outside Ay’s direct local storage
 * Synced to Apple Calendar or Reminders
 * Stored in iCloud or device backups
 * Stored in third-party calendar/reminder accounts
 * Shared with another app or person
 * Exported to Files or another destination
+* Exported as an `.ayaccount` backup or another archive
 * Copied to clipboard
 * Captured by screenshots or screen recordings
 * Retained by Apple for App Store, StoreKit, diagnostics, legal, tax, billing, refund, or account reasons
 
-You may need to manage some data separately through Apple Settings, Apple ID/iCloud settings, Photos, Calendar, Reminders, Files, third-party apps, or other services you use.
+You may need to manage some data separately through Apple Settings, Apple Health, Apple Watch, Apple ID/iCloud settings, Photos, Calendar, Reminders, Files, system-surface settings, third-party apps, recipients, or other destinations you use. Ay cannot revoke or erase copies that are no longer under the App’s control.
 
 12. Apple diagnostics
 
@@ -480,9 +543,11 @@ The App should not be used as the sole storage location for important, sensitive
 
 You are responsible for keeping separate backups of important data outside the App.
 
+If you use Ay Account backup/export, you are responsible for protecting the exported `.ayaccount` file and its destination. The current Ay backup format is not encrypted by Ay and may contain sensitive App content. Do not treat integrity validation as encryption or access control.
+
 You are responsible for maintaining sufficient device storage, iCloud storage, Apple ID availability, device access, permissions, network availability, and appropriate device settings.
 
-Insufficient storage, unavailable permissions, damaged files, OS errors, App deletion, device reset, iCloud issues, Calendar/Reminders account issues, Photos issues, or user actions may prevent saving, backup, restore, export, deletion, synchronization, AI processing, or notification delivery.
+Insufficient storage, unavailable permissions, damaged files, OS errors, App deletion, device reset, iCloud issues, Calendar/Reminders account issues, Photos issues, external file-provider issues, or user actions may prevent saving, backup, restore, export, deletion, or synchronization.
 
 14. Accuracy and reliability
 
@@ -505,7 +570,7 @@ Depending on your location, especially if you are in the EU/EEA/UK, you may have
 * Withdraw consent
 * Lodge a complaint with a data protection authority
 
-Because most data is stored locally on your device or through Apple-managed services, you can manage much of it directly on your device, inside the App, or through Apple Settings, Apple ID, iCloud, Photos, Calendar, Reminders, Siri, Search, and App Store settings.
+Because most data is stored locally on your device or through Apple-managed systems you choose to use, you can manage much of it directly inside Ay or through the relevant Apple settings, such as Apple Health, Apple Watch, iCloud, Photos, Calendar, Reminders, Location Services, Siri/Search, notifications, and App Store settings. Copies that you intentionally exported or shared may need to be managed at the destination separately.
 
 For privacy requests, contact:
 
@@ -519,11 +584,15 @@ We do not knowingly collect personal data from children through a developer-oper
 
 17. Security
 
-Ay uses Apple system frameworks and local device storage mechanisms where possible.
+Ay uses Apple system frameworks and local device storage mechanisms where possible. Selected App-owned files use Apple platform file-protection mechanisms where implemented.
 
-No electronic storage, local device storage, backup, synchronization, AI system, notification system, or transmission method is completely secure. The App is designed to minimize unnecessary data collection, avoid third-party advertising/analytics SDKs, and avoid developer-operated backend storage.
+No local storage, backup, synchronization, system surface, or export method is completely secure. Ay is designed to minimize unnecessary data handling, avoid third-party advertising/analytics SDKs, and avoid developer-operated backend storage.
 
-You are responsible for protecting your device, Apple ID, passcode, biometric access, backups, shared devices, exported files, and content you choose to share outside the App.
+The current `.ayaccount` backup archive is not encrypted by Ay. Any encryption or access controls provided by the device, Files destination, iCloud Drive, or another file provider are separate from Ay’s backup format and depend on the destination and settings you choose.
+
+Content shown through notifications, widgets, Live Activities, Lock Screen, Dynamic Island, StandBy, Now Playing, Apple Watch, Spotlight, Siri, or similar system surfaces may be visible to other people who can see or access those surfaces, subject to your device settings.
+
+You are responsible for protecting your device, Apple ID, passcode/biometric access, Apple Watch, backups, shared devices, exported files, and content you choose to share outside the App.
 
 18. Changes to this Privacy Policy
 
