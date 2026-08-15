@@ -2,7 +2,7 @@ Privacy Policy for Ay
 
 Last updated: August 15, 2026
 
-This Privacy Policy explains how Ay (“the App”, “we”, “our”, or “us”) handles information. Ay is designed with a local-first architecture: App content is generally kept on your device unless you choose a feature that uses an Apple-managed system service or you deliberately export, share, save, synchronize, or back up content elsewhere.
+This Privacy Policy explains how Ay (“the App”, “we”, “our”, or “us”) handles information. Ay is designed with a local-first architecture: App content is generally kept on your device unless you choose a feature that uses an Apple-managed system service or you deliberately export, share, save, synchronize,Ay (Artifical Intelligence) or back up content elsewhere.
 
 We do not sell your data. We do not use third-party advertising SDKs, third-party analytics SDKs, third-party crash analytics, data brokers, or cross-app tracking.
 
