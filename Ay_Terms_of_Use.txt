@@ -1,6 +1,6 @@
 Terms of Use / End User License Agreement for Ay
 
-Last updated: August 15, 2026
+Last updated: November 20, 2026
 
 These Terms of Use / End User License Agreement (“Terms”) govern your use of Ay (“the App”). By downloading, accessing, enabling, subscribing to, or using the App, you agree to these Terms.
 
@@ -52,7 +52,7 @@ Deleting the App, deleting local App data, or resetting your local profile may n
 
 5. App functionality
 
-Ay may include personal workspace, Ay chat, Profile chats, content organization, attachments, notes, checklists, quotes, links, locations, drawings, events, reminders, subtasks, todos, local notifications, camera capture, document scanning, PDF and EPUB features, voice messages, speech-to-text, Contents hub, search, Apple Calendar and Reminders sync, Apple Maps features, Apple Health water and step integrations, Apple Watch synchronization, widgets, Live Activities, Spotlight/Siri/Shortcuts/App Intents integration, Apple Intelligence-supported features, Translation-supported features, music playback and playlists, instrument tuning, sound-level measurement, speed and parking tools, travel planning, Pass document organization, routines, Focus sessions, Countdowns, meetings, recipes and timers, personal and home payment tracking, Education Library, study Cards, Readout, gaming and watchlist organization, Plan projects, Code Projects, local file and metadata analysis, Sense and SuperAy insights, duplicate detection, archives, import/export, drag-and-drop, Ay Account backup and restore, premium tools, and StoreKit subscription features.
+Ay may include personal workspace, Ay chat, Profile chats, content organization, attachments, notes, checklists, quotes, links, locations, drawings, events, reminders, subtasks, todos, local notifications, camera capture, document scanning, PDF and EPUB features, voice messages, speech-to-text, Contents hub, search, Apple Calendar and Reminders sync, Apple Maps features, Net web browsing, Apple Health water and step integrations, Apple Watch synchronization, widgets, Live Activities, Spotlight/Siri/Shortcuts/App Intents integration, Apple Intelligence-supported features, Translation-supported features, music playback and playlists, instrument tuning, sound-level measurement, speed and parking tools, travel planning, Pass document organization, routines, Focus sessions, Countdowns, meetings, recipes and timers, personal and home payment tracking, Education Library, study Cards, Readout, gaming and watchlist organization, Plan projects, Code Projects, local file and metadata analysis, Sense and SuperAy insights, duplicate detection, archives, import/export, drag-and-drop, Ay Account backup and restore, premium tools, and StoreKit subscription features.
 
 The App is provided as a personal organization and productivity tool. It is not a medical, legal, financial, accounting, tax, psychological, safety, emergency, academic, business-critical, or professional advisory service.
 
@@ -87,7 +87,7 @@ User content may include, but is not limited to:
 * AI outputs
 * Imported or exported content
 
-You must have the necessary rights and permissions for any content you add to or use with the App.
+You must have the necessary rights and permissions for any content you add to or use with the App, including material you access, save, copy, import, or share from websites through Net.
 
 You agree not to use the App to create, store, organize, process, export, or share content that is unlawful, harmful, abusive, defamatory, misleading, infringing, sexually exploitative, harassing, discriminatory, fraudulent, or otherwise violates the rights of others.
 
@@ -348,7 +348,7 @@ To the maximum extent permitted by applicable law, the developer is not responsi
 
 You are responsible for managing your Apple ID, App Store account, Family Sharing settings, region settings, payment method, subscription status, refund requests, billing information, and device settings.
 
-Deleting the App does not necessarily cancel your subscription. Subscriptions must be managed through Apple’s subscription management tools.
+Deleting the App does not necessarily cancel your subscription. Subscriptions must be managed through Apple’s subscription management tools. Purchases, subscriptions, and other payments you make on independent websites through Net are separate transactions with those website operators or payment providers, not Ay App Store subscriptions merely because they occur within the App.
 
 23. Premium access and entitlement
 
@@ -501,6 +501,7 @@ You are responsible for:
 * Securing exported Ay Account backup files and other exported archives or documents
 * Reviewing restore, bulk edit, move, drag-and-drop, Trash, and auto-delete actions before relying on them
 * Reviewing App outputs before relying on them
+* Checking the legitimacy of websites, downloads, links, requests for personal information, and online transactions accessed through Net
 * Reviewing AI outputs before relying on them
 * Reviewing AI-generated actions before applying them
 * Verifying calendar, reminder, map, location, speed, parking, HealthKit, water, step, sound-level, tuning, timer, payment-tracking, OCR, translation, speech, file, duplicate, Code Project check, and derived insight results
@@ -733,13 +734,25 @@ A translation or transformed text is not a certified, sworn, professional, legal
 
 The developer does not control Apple’s translation models, supported languages, downloads, model updates, system behavior, or availability and cannot be held responsible for translation errors or consequences caused by relying on translated or transformed text.
 
-50. No third-party advertising or analytics
+50. Net browser and independent websites
+
+Net lets you visit independently operated websites and online services. The developer does not own, operate, verify, endorse, supervise, or control external websites, their content, advertisements, search results, services, policies, or business practices merely because they are accessible through Net. Using Net does not make the developer a party to an agreement or transaction between you and a third party.
+
+Internet use involves risks that can include deceptive or unlawful content, fraud, phishing, identity theft, malicious downloads, security vulnerabilities, unwanted tracking, unauthorized disclosures, and loss of data or money. You are responsible for exercising judgment and taking appropriate precautions when choosing websites, disclosing information, entering credentials, granting permissions, downloading or saving material, communicating, or completing transactions. Privacy modes, security warnings, and other browser protections cannot guarantee anonymity, confidentiality, accuracy, or complete safety.
+
+Any purchase, payment, subscription, contract, delivery, refund, financial service, or other transaction conducted with an independent website is between you and the relevant third party. You are responsible for reviewing that party’s terms, privacy practices, charges, identity, and legitimacy, and for pursuing disputes, cancellations, refunds, or other remedies with the responsible provider. You are also responsible for complying with applicable laws and respecting intellectual property and other rights when accessing, copying, downloading, saving, publishing, or sharing online content.
+
+External websites and services may change, become unavailable, restrict access, behave unexpectedly, or be incompatible with the App, device, network, or browser technology. The developer does not guarantee their availability, quality, legality, reliability, security, accuracy, compatibility, transaction completion, or continued access, and has no general obligation to monitor independent websites or resolve disputes with their operators.
+
+To the maximum extent permitted by applicable law, the developer is not liable for the independent acts, omissions, content, security practices, data handling, transactions, or service failures of third parties, or for resulting losses, claims, damages, unauthorized transactions, account compromise, or other consequences of your interactions with them. Where permitted by applicable law, you agree to indemnify the developer against reasonable third-party claims and costs directly arising from your unlawful use of Net or your infringement of another party’s rights, except to the extent caused by the developer’s own wrongful conduct or breach of legal obligations. Nothing in these Terms limits rights or remedies that applicable law does not permit to be waived, or excludes liability for the developer’s own conduct where exclusion is prohibited.
+
+51. No third-party advertising or analytics
 
 Ay does not use third-party advertising SDKs, third-party analytics SDKs, third-party crash analytics SDKs, or cross-app tracking.
 
 Apple may provide diagnostics to developers if you have enabled sharing diagnostics with app developers in your device settings. This is controlled by Apple and your device settings.
 
-51. Intellectual property
+52. Intellectual property
 
 The App, including its design, code, structure, organization, features, visual elements, and original content, is protected by intellectual property laws.
 
@@ -751,23 +764,23 @@ If AI-supported features generate content similar to existing material or unsuit
 
 The developer is not responsible for copyright, trademark, publicity, privacy, contractual, or other rights issues caused by user content, imported content, scanned content, recorded content, shared content, or AI output that you choose to use.
 
-52. Export control and legal compliance
+53. Export control and legal compliance
 
 You may not use or export the App in violation of applicable laws, sanctions, export controls, or Apple rules.
 
 You represent that you are not located in a country or region subject to restrictions that prohibit your use of the App and that you are not listed on any restricted party list that would make your use unlawful.
 
-53. Force majeure
+54. Force majeure
 
 The developer cannot be held responsible for failures, interruptions, delays, data issues, service issues, unavailable features, AI limitations, payment issues, backup problems, or App unavailability caused by events outside the developer’s reasonable control, including natural disasters, internet outages, governmental actions, legal restrictions, platform restrictions, Apple service issues, security incidents, labor disruptions, war, civil unrest, pandemics, power outages, infrastructure failures, or other force majeure events.
 
-54. Privacy
+55. Privacy
 
 Your use of the App is also governed by the App’s Privacy Policy.
 
 The Privacy Policy explains what data the App may process, how local-first App data works, how Apple-managed services may be involved, how Apple Intelligence-supported features may use context, how StoreKit subscription/payment processes work, and how privacy rights may apply.
 
-55. Limitation of liability
+56. Limitation of liability
 
 To the maximum extent permitted by applicable law, the developer cannot be held responsible for indirect, incidental, special, consequential, exemplary, punitive, economic, financial, business, academic, productivity, reputational, emotional, personal, or data-related damages arising from or related to your use of the App.
 
@@ -842,11 +855,12 @@ This includes damages, losses, or consequences related to:
 * Discontinued development
 * Apple service interruptions
 * External app behavior
+* Independent websites, online content, links, downloads, malware, phishing, scams, third-party tracking, data handling, account compromises, and external transactions accessed through Net
 * Force majeure events
 
 The App is a personal organization tool and should not be relied upon as the sole place to store important, sensitive, legal, financial, medical, academic, business-critical, emergency, or mission-critical information.
 
-56. Disclaimer of warranties
+57. Disclaimer of warranties
 
 To the maximum extent permitted by applicable law, the App is provided without warranties of any kind, whether express, implied, statutory, or otherwise.
 
@@ -856,6 +870,7 @@ The developer does not warrant that:
 * The App will always be available
 * The App will always be accurate
 * The App will always be secure
+* Third-party websites, downloads, communications, or transactions accessed through Net will be safe, legitimate, accurate, private, available, or suitable for your purposes
 * The App will always preserve data
 * AI outputs will be correct
 * AI outputs will be suitable
@@ -872,7 +887,7 @@ The developer does not warrant that:
 * Apple services will remain available
 * The App will be compatible with all future iOS versions or Apple policy changes
 
-57. Termination
+58. Termination
 
 The developer may suspend or terminate your right to use the App if you violate these Terms, misuse the App, attempt to bypass subscription or security systems, violate applicable law, or use the App in a harmful or abusive way.
 
@@ -880,13 +895,13 @@ You may stop using the App at any time by deleting it from your device.
 
 Deleting the App may delete local data and may not cancel active App Store subscriptions. Subscriptions must be managed through Apple.
 
-58. Changes to these Terms
+59. Changes to these Terms
 
 The developer may update these Terms from time to time.
 
 The updated Terms will show a new “Last updated” date. Continued use of the App after updated Terms become available means you accept the updated Terms.
 
-59. Contact
+60. Contact
 
 For questions about these Terms:
 
